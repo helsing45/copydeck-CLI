@@ -1,0 +1,8 @@
+{
+    "from":"Csv",
+    "to":"Android",
+    "readPath":"test/input/csv/Abbvie_v1.csv",
+    "writePath":"test/output/Abbvie_V1",
+    "filter":"(Target == \"Android\" || Target == \"Mobile\") && (Projet == \"Maviret\" || Projet == \"All\")",
+    "defaultLang":"fr"
+}

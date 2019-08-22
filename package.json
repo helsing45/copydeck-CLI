@@ -1,0 +1,25 @@
+{
+  "name": "@helsing45/copydeck-cli",
+  "version": "1.0.0-beta3",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "@helsing45/copydeck-cli": "bin/copydeck-cli",
+    "copydeck": "bin/copydeck-cli"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^4.1.1",
+    "copydeck-module": "^1.0.0-beta5.8",
+    "esm": "^3.2.25",
+    "inquirer": "^6.5.1"
+  }
+}

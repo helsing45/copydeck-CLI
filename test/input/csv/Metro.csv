@@ -1,0 +1,565 @@
+Notes APPCOM,Notes/Questions client,Reviewed by,Last review date,Section,String_ID,Android_ID,Web_ID,IOS_ID,Target,Plural,fr,en
+,,Scott Cameron,26 juillet 2018,Navigation,,feature,,HOME_TABBAR_ACCUEIL,Mobile,,En vedette,Featured
+,,Scott Cameron,26 juillet 2018,Navigation,flyer_current,,,,Android,,Circulaire,Flyer
+,,Scott Cameron,26 juillet 2018,Navigation,,flyer_next,,HOME_TABBAR_NEXT_CIRCULAIRE,Mobile,,Prochaine circulaire,Upcoming Flyer
+,,Scott Cameron,26 juillet 2018,Navigation,,shopping_list,,HOME_TABBAR_GROCERYLIST,Mobile,,Liste,List
+,,Scott Cameron,26 juillet 2018,Navigation,coupon_detail_title,,,,Android,,Détails,Details
+,,Scott Cameron,26 juillet 2018,Navigation,HOME_TABBAR_COUPON_DETAIL,,,,IOS,,Détails,Details
+,,Scott Cameron,26 juillet 2018,Navigation,,card_metro_et_moi,,HOME_TABBAR_METROANDME,Mobile,,metro&moi,metro&moi
+,,Scott Cameron,26 juillet 2018,Misc,card_help_title_mm,,,,Android,,Ma carte metro&moi,My card metro&moi
+,,Scott Cameron,26 juillet 2018,Misc,card_help_title_am,,,,Android,,Ma carte AIR MILES<sup><small>MD</small></sup>,My AIR MILES® Card
+,,Scott Cameron,26 juillet 2018,Misc,card_help_title_tb,,,,Android,,Ma carte Thunder Bucks,My Thunder Bucks Card
+,,Scott Cameron,26 juillet 2018,Errors,,error_no_data,,NO_DATA_AVAILABLE,Mobile,,Aucune donnée disponible,No data available
+,,Scott Cameron,26 juillet 2018,Errors,,error_no_network,,NO_NETWORK_MESSAGE,Mobile,,Aucune connexion internet,No internet connection
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_add,,ITEM_ADDTOLIST,Mobile,,Ajouter à la liste,Add to list
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_remove,,ITEM_REMOVEFROMLIST,Mobile,,Retirer de la liste,Remove from list
+,,Scott Cameron,26 juillet 2018,Errors,flyer_no_network_text,,,,Android,,Aucune donnée disponible,No data available
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer,,HOME_TABBAR_CIRCULAIRE,Mobile,,Circulaire,Flyer
+,,Scott Cameron,26 juillet 2018,Flyers,,feature_flyer_title,,ACCUEIL_SPECIAUX_TITLE,Mobile,,Offres de la semaine,This week's specials
+,,Scott Cameron,26 juillet 2018,Flyers,,feature_flyer_all,,ACCUEIL_SPECIAUX_CIRCULAIRE,Mobile,,Voir la circulaire,See the flyer
+,,Scott Cameron,26 juillet 2018,Flyers,,feature_coupon_title,,ACCUEIL_COUPONS_TITLE,Mobile,,Tous les coupons,See all the coupons
+,,Scott Cameron,26 juillet 2018,Flyers,,feature_coupon_all,,ACCUEIL_COUPONS_ALL,Mobile,,Tout,All
+,,Scott Cameron,26 juillet 2018,Home,,french,,ACCUEIL_LANGUAGE_NAME_FRENCH,Mobile,,Français,Français
+,,Scott Cameron,26 juillet 2018,Home,,english,,ACCUEIL_LANGUAGE_NAME_ENGLISH,Mobile,,English,English
+,,Scott Cameron,26 juillet 2018,Home,,notification,,ACCUEIL_NOTIFICATION_TITLE,Mobile,,Notification,Notifications
+,,Scott Cameron,26 juillet 2018,Home,,language,,ACCUEIL_LANGUAGE_TITLE,Mobile,,Langue,Language
+,,Scott Cameron,26 juillet 2018,Home,,faq,,ACCUEIL_FAQ_TITLE,Mobile,,FAQ,FAQ
+,,Scott Cameron,26 juillet 2018,Home,,information,,ACCUEIL_INFORMATION_TITLE,Mobile,,Information,Information
+,,Scott Cameron,26 juillet 2018,Store,feature_store_hour,,,,Android,,Ouvert aujourd'hui : {{text}},Open today : {{text}}
+,,Scott Cameron,26 juillet 2018,Store,,feature_store,,MY_STORE,Mobile,,Mon épicerie,My preferred store
+,,Scott Cameron,26 juillet 2018,Store,,feature_store_change,,MODIFY,Mobile,,Changer,Change
+,,Scott Cameron,26 juillet 2018,Errors,,flyer_error_text,,FLYER_ERROR_MESSAGE,Mobile,,Une erreur est survenue lors du chargement,An error occured when loading the flyer
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_title,,FLYER_ITEM_TITLE,Mobile,,Détail du produit,Product details
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_disclaimer,,FLYER_PRODUCT_DISCLAIMER,Mobile,,"En cas de disparité entre l'information présentée dans l'application et la circulaire imprimée, cette dernière prévaudra","In case of discrepancy between the information presented in the app and the printed flyer, the latter shall take precedence."
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_added,,PRODUCT_ADDED_TO_LIST,Mobile,,Ajouté,Added
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_removed,,PRODUCT_REMOVED_FROM_LIST,Mobile,,Retiré,Removed
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_label_current,,FLYER_ITEM_VALIDITY_TEXT,Mobile,,Valide du {{text}} au {{text}},Valid from {{text}} to {{text}}
+,,Scott Cameron,26 juillet 2018,Flyers,flyer_detail_label_next,,,,Android,,Attention! La promotion sera effective à partir de {{text}},Be advised! The promotion will be effective from {{text}}
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_empty_text,,FLYER_NOT_AVAILABLE,Mobile,,Aucune circulaire n'est présentement disponible,No flyer is currently available
+,,Scott Cameron,26 juillet 2018,Navigation,,coupons,,HOME_TABBAR_COUPONS,Mobile,,Coupons,Coupons
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_header_points_format_mm,,,,Android,,{{number}},{{number}}
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_header_points_unit_mm,,COUPONS_PTS,Mobile,, pts , pts 
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_header_points_unit_mm,,COUPONS_PTS_IOS,IOS,,\U0020pts\U0020,\U0020pts\U0020
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_header_points_format_am,,,,Android,,{{number}} milles,{{number}} 
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_header_points_unit_tb,,COUPONS_PTS_TB,Mobile,, points Thunder, Thunder Bucks
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_header_points_unit_tb,,COUPONS_PTS_TB_IOS,IOS,,\U0020points Thunder,\U0020Thunder Bucks
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_header_points_unit_am,,,,Android,,AIR MILES<sup><small>MD</small></sup> en prime,AIR MILES® bonus miles
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_header_points_format_tb,,,,Android,,{{number}},{{number}}
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_header_and,,COUPONS_AND_IOS,IOS,,\U0020et\U0020 ,\U0020and\U0020
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_header_and,,COUPONS_AND,Mobile,, et , and 
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_expire_text,,COUPONS_EXPIRE_IN,Mobile,,Expire dans ,Expires in 
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_expire_text,,COUPONS_EXPIRE_IN_IOS,IOS,,Expire dans\U0020,Expires in\U0020
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_used_label,,COUPON_USED,Mobile,,Coupon utilisé ,Coupon used 
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_used_label,,COUPON_USED_IOS,IOS,,Coupon utilisé\U0020,Coupon used\U0020
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_used_text,,COUPON_USED_AGO_IOS,IOS,,Coupon utilisé il y a\U0020,Coupon used\U0020
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_used_text,,COUPON_USED_AGO,Mobile,,Coupon utilisé il y a ,Coupon used 
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_detail_add,,,,Android,,Ajouter à la liste,Add to list
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_detail_remove,,,,Android,,Retirer,Remove
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_tutorial_title,,,,Android,,NOUVEAUTÉ,NEW
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_tutorial_button,,COUPON_SPLASHSCREEN_BUTTON,Mobile,,J'ai compris,Got it
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_tutorial_description,,,,Android,,metro&moi,metro&moi
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_detail,,,,Android,,Détails,Details
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_header_dollars_format,,,,Android,,{{text}} $,$ {{text}}
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_removed,,,,Android,,Retiré,Removed
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_add_fail,,,,Android,,Impossible d'ajouter un coupon,Failed to add coupon
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_remove_fail,,,,Android,,Impossible de retirer un coupon,Failed to remove coupon
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_empty,,GROCERYLIST_NO_ITEM_TEXT,Mobile,,Votre liste ne contient aucun produit,Your list has no products
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_modify,,GROCERYLIST_MODIFY_BUTTON,Mobile,,Modifier,Modify
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_cancel,,PLUS_LANGUAGE_CANCEL,Mobile,,Annuler,Cancel
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_search_hint,,GROCERY_SEARCH_PLACEHOLDER,Mobile,,Ajouter des produits,Add products
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_open_guide,,OPEN_GUIDE,Mobile,,Construire votre liste,Build your list
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_do_shopping,,CREATE_GROCERY_LIST,Mobile,,Faire mon épicerie,Do my grocery
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_search,,,,Android,,Chercher,Search
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_share,,,,Android,,Partager la liste,Share
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_share_title,,,,Android,,Partager avec ,Share with
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_go,,,,Android,,Faire mon épicerie,Start shopping
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_share_intro,,GROCERYLIST_SHARING_FIRST_LINE,Mobile,,Voici ma liste d'épicerie pour metro:,Here's my grocery list for metro:
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_share_link,,,,Android,,Télécharger l'appli Mon Metro - https://www.metro.ca/application-mobile ,Download the mobile app My Metro - https://www.metro.ca/en/mobile-application
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_share_note,,SHOPPING_LIST_DETAIL_NOTE,Mobile,,note:\u0020,note:\u0020
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_related,,GROCERYLIST_ITEM_TITLE,Mobile,,Détail de l'item,Item details
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_related_done,,GROCERYLIST_ITEM_TERMINATE,Mobile,,Terminer,Finish
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_related_note,,GROCERYLIST_ITEM_NOTE_PLACEHOLDER,Mobile,,Quantité / note : ,Quantity / note
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_related_delete,,,,Android,,Effacer,Delete
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_related_coupon,,GROCERYLIST_ITEM_COUPONS,Mobile,,COUPONS,COUPONS
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_related_flyer,,GROCERYLIST_ITEM_OFFERS,Mobile,,OFFRES,OFFERS
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_related_healthy_product,,GROCERYLIST_ITEM_HEALTHY,Mobile,,MEILLEURS ET BONS CHOIX,HEALTHY AND GOOD CHOICES
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_healthy_good,,GROCERYLIST_HEALTHY_GOOD_CHOICE,Mobile,,Bon choix,Good choice
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_healthy_better,,GROCERYLIST_HEALTHY_BEST_CHOICE,Mobile,,Meilleur choix,Great choice
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_delete,,DELETE,Mobile,,Supprimer,Delete
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_deleted,,,,Android,,Supprimé,Removed
+,,Scott Cameron,26 juillet 2018,Shopping list,DELETE_MESSAGE_SUCCESS,,,,IOS,,Supprimé,Removed
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_guide_changed,,,,Android,,La liste a été mise-à-jour,Shopping list updated
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_text,,ENTER_YOUR_CARD,Mobile,,Entrez votre numéro de carte,Enter your card number
+,,Scott Cameron,26 juillet 2018,Shopping list,healthy_product_detail,,,,Android,,Détail du produit,Product details
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_related_deleted,,,,Android,,Supprimé,Deleted
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_related_updated,,,,Android,,Mis-à-jour,Updated
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_guide,,GUIDE,Mobile,,Guide,Guide
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_guide_done,,FINISH_GUIDE_STEP,Mobile,,Terminer,Done
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_guide_next,,NEXT_GUIDE_STEP,Mobile,,Suivant,Next
+,,Scott Cameron,26 juillet 2018,Shopping list,healthy_product_added,,,,Android,,Ajouté,Added
+,,Scott Cameron,26 juillet 2018,Shopping list,healthy_product_removed,,,,Android,,Supprimé,Removed
+,,Scott Cameron,26 juillet 2018,Shopping list,healthy_product_detail_add,,,,Android,,Ajouter à la liste,Add to list
+,,Scott Cameron,26 juillet 2018,Shopping list,healthy_product_detail_remove,,,,Android,,Retirer de la liste,Removed from list
+,,Scott Cameron,26 juillet 2018,Shopping list,usual_product_added,,,,Android,,Ajouté,Added
+,,Scott Cameron,26 juillet 2018,Shopping list,usual_product_removed,,,,Android,,Supprimé,Removed
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_add_favorite,,GUIDE_ITEM_0_TITLE_0,Mobile,,Ajouter vos essentiels,Add your usuals
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_add_coupon,,GUIDE_ITEM_1_TITLE_0,Mobile,,Ajouter vos coupons,Add your coupons
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_add_flyer,,GUIDE_ITEM_2_TITLE_0,Mobile,,Ajouter vos offres,Add your offers
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_no_favorite,,,,Android,,Vous n'avez pas encore d'essentiels,You don't have any usuals yet
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_no_coupon,,,,Android,,Vous n'avez pas encore de coupons,You don't have any coupons yet
+,,Scott Cameron,26 juillet 2018,Errors,,error_generic,,ERROR_ADDING_PRODUCT,Mobile,,Une erreur est survenue,An error occured
+,,Scott Cameron,26 juillet 2018,Misc,version,,,,Android,,Version {{text}}{{text}} ,Version {{text}}{{text}}
+,,Scott Cameron,26 juillet 2018,Home,,about,,INFO_ELEMENT_ABOUT,Mobile,,À propos,About
+,,Scott Cameron,26 juillet 2018,Home,,contact,,INFO_ELEMENT_CONTACT_US,Mobile,,Contactez-nous,Contact Us
+,,Scott Cameron,26 juillet 2018,Home,,term,,INFO_ELEMENT_TERMS_OF_USE,Mobile,,Conditions d'utilisation,Terms of Use
+,,Scott Cameron,26 juillet 2018,Home,,legal,,INFO_ELEMENT_CONFIDENTIALITY,Mobile,,Protection des renseignements personnels,Protection of Personal Information
+,,Scott Cameron,26 juillet 2018,Home,,card_add_scan,,METRO_CARD_SCANNEWCARD,Mobile,,Balayer le code-barres de votre carte,Scan your card's barcode
+,,Scott Cameron,26 juillet 2018,Misc,,or,,METRO_CARD_OR,Mobile,,ou,or
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_validate,,METRO_CARD_VALIDATE,Mobile,,Continuer,Continue
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_sign_up,,AIRMILES_CARD_VALIDATE,Mobile,,S'inscrire,Sign up
+,,Scott Cameron,26 juillet 2018,Add Card,,card_added,,METRO_CARD_SETUP_SUCCESS,Mobile,,Succès! ,Success!
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_empty,,,,Android,,Le numéro de la carte est vide,The card number is empty
+,,Scott Cameron,26 juillet 2018,Errors,,card_add_fail,,METRO_CARD_ERROR,Mobile,,Le numéro de carte est invalide,Invalid card number
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_empty_field,,METRO_CARD_REQUIRED_FIELD_ERROR,Mobile,,Champs requis non remplis,Required field not completed
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_hint,,,,Android,,Entrez votre numéro de carte,Enter your card number
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_description_mm,,CONNECT_CARD_INSTRUCTION_MM,Mobile,,Entrez votre carte metro&moi pour personnaliser votre expérience.,Enter your metro&moi card to personalize your experience
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_description_am,,,,Android,,Entrez votre numéro de carte AIR MILES<sup><small>MD</small></sup> pour personnaliser votre expérience.,Enter your AIR MILES® card number to personalize your experience
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_description_tb,,THUNDERBUCKS_CARD_INSTRUCTIONS,Mobile,,Entrez votre carte Thunder Bucks pour personnaliser votre expérience.,Enter your Thunder Bucks card to personalize your experience
+,,Scott Cameron,26 juillet 2018,Errors,card_remove_fail,,,,Android,,La carte ne peut pas être retirée présentement,The card cannot be unlinked at the moment
+,,Scott Cameron,26 juillet 2018,Add Card,,scan_card_guide_message,,METRO_CARD_SCAN_INSTRUCTIONS,Mobile,,Pointer la caméra sur le code-barres.\nFocuser et tenir l'appareil fermement.\nÉviter les reflets et les ombres.,Point the camera at the barcode.\nFocus and hold the device steadily.\nAvoid glares and shadows.
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_coupon_text_1,,METRO_CARD_INSTRUCTIONS_ONE,Mobile,,"Sélectionnez vos coupons pour les ajouter sur votre carte. En présentant votre carte, ils seront automatiquement appliqués lors de votre passage à la caisse.","Select your coupons to add them to your card. When presenting your card at checkout, they will be automatically applied to your purchases."
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_coupon_text_2,,METRO_CARD_INSTRUCTIONS_TWO,Mobile,,Pivoter votre appareil pour utiliser votre carte à la caisse,Pivot your device to show your card
+,,Scott Cameron,26 juillet 2018,Add Card,,dashboard_remove_card_metro_et_moi,,METRO_CARD_REMOVE_CARD,Mobile,,Retirer ma carte metro&moi,Remove my metro&moi card
+,,Scott Cameron,26 juillet 2018,Dashboard,dashboard_remove_card_air_miles,,,,Android,,Retirer ma carte AIR MILES<sup><small>MD</small></sup>,Remove my AIR MILES® card
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_remove_card_thunder_buck,,THUNDERBUCKS_CARD_REMOVE_CARD,Mobile,,Retirer ma carte Thunder Bucks,Remove my Thunder Bucks card
+,,Scott Cameron,26 juillet 2018,Dashboard,card_help_description_am,,,,Android,,Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages AIR MILES<sup><small>MD</small></sup>.,Scan your card's barcode or type in your card number to take full advantage of the AIR MILES® program.
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_description_tb,,THUNDERBUCKS_CARD_HELP_TITLE,Mobile,,Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages Thunder Bucks.,Scan your card's barcode or type in your card number to take full advantage of the Thunder Bucks program.
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_description_mm,,METRO_CARD_HELP_TITLE,Mobile,,Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages metro&moi.,Scan your card's barcode or type in your card number to take full advantage of the metro&moi program.
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_advantage,,METRO_CARD_HELP_CONTENT_TITLE,Mobile,,Les avantages d'ajouter sa carte,Advantages of adding your card
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_card,,METRO_CARD_HELP_CONTENT_CARD,Mobile,,"Votre carte partout, en tout temps","Your card any where, any time"
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_coupon,,METRO_CARD_HELP_CONTENT_COUPONS,Mobile,,Des coupons personnalisés selon vos goûts,Customized coupons to your tastes
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_flyer,,METRO_CARD_HELP_CONTENT_FLYERS,Mobile,,Des offres et une circulaire personnalisées,Personalized deals and flyer
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_usual,,METRO_CARD_HELP_CONTENT_FAVORITES,Mobile,,Vos produits essentiels,Your usuals based on the products you buy frequently
+,,Scott Cameron,26 juillet 2018,Dashboard,,card_help_voucher,,METRO_CARD_HELP_CONTENT_REWARDS,Mobile,,Des chèques-récompenses juste pour vous,Reward cheques just for you
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_salutation_format,,METRO_CARD_GREETINGS_NAME,Mobile,,Bonjour {{text}},Hello {{text}}
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_POINTS_SUMMARY,,,METRO_CARD_POINTS_SUMMARY,Mobile,,Votre solde de points,Your points balance
+,,Scott Cameron,26 juillet 2018,Dashboard,dashboard_your_points_metro_et_moi,,,,Android,,Votre solde de points {{img:metro}},Your {{img:metro}} points balance
+,,Scott Cameron,26 juillet 2018,Dashboard,dashboard_your_points_air_miles,,,,Android,,AIR MILES<sup><small>MD</small></sup> miles à obtenir,AIR MILES® miles to get
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_your_points_thunder_buck,,THUNDER_BUCKS_POINTS_SUMMARY,Mobile,,points Thunder à accumuler,Thunder Bucks to accumulate
+,,Scott Cameron,26 juillet 2018,Dashboard,dashboard_your_card_air_miles,,,,Android,,Votre carte AIR MILES<sup><small>MD</small></sup>,Your AIR MILES® card 
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_your_card_thunder_buck,,THUNDER_BUCKS_CARD_TITLE,Mobile,,Votre carte Thunder Bucks,Your Thunder Bucks card
+,,Scott Cameron,26 juillet 2018,Dashboard,dashboard_your_card_metro_et_moi,,,,Android,,Votre carte metro&moi,Your metro&moi card
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_your_rewards,,METRO_CARD_TITLE_VOUCHERS,Mobile,,Vos récompenses,Your rewards
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_continue_accumulate,,METRO_CARD_TITLE_VOUCHERS_NO_VOUCHERS,Mobile,,Continuez à accumuler des points pour votre prochaine récompense,Keep accumulating points for your next reward!
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_verify_continue,,,,Android,,Continuer,Continue
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_total_not_used,,METRO_CARD_TITLE_UNUSED_VOUCHERS,Mobile,,Total de mes récompenses non utilisées,Total rewards available
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_total_used,,METRO_CARD_TITLE_USED_VOUCHERS,Mobile,,Total de mes récompenses reçues,Total rewards received
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_my_vouchers_not_used,,METRO_CARD_TITLE_SECTION_UNUSED_VOUCHERS,Mobile,,Mes récompenses non utilisées,My available rewards
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_my_vouchers_not_used_empty,,METRO_CARD_TITLE_SECTION_NO_UNUSED_VOUCHERS,Mobile,,Aucune récompense inutilisée,No unused rewards
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_my_vouchers_used,,METRO_CARD_TITLE_SECTION_USED_VOUCHERS,Mobile,,Mon historique de récompenses,My rewards history
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_setting_exit_question,,,,Android,,Voulez-vous vraiment quitter ?,Are you sure you want to quit?
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_setting_exit,,,,Android,,Quitter,Exit
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_amount_format,,,,Android,,Récompense de {{number}} $,Reward of {{number}} $
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_expire_date,,,,Android,,Expire le {{text}},Expires on {{text}}
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_expire_soon,,VOUCHER_EXPIRE_SOON,Mobile,,Expire bientôt! ,Expires soon !
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_redeemed_date,,,,Android,,Échangé le {{text}},Redeemed on {{text}}
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_expired_date,,,,Android,,Expiré le {{text}},Expired on {{text}}
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_amount_zero,,VOUCHER_TO_COME,Mobile,,Récompense à venir ,Reward to come
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_list_setting,,VOUCHER_SETTINGS_TITLE,Mobile,,Préférences,Settings
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_list_setting_checkbox,,VOUCHER_SETTINGS_RECEPTION_TEXT,Mobile,,Je désire recevoir mes chèques-récompenses en format numérique seulement.,I want to get my reward cheques in digital format only
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_list_setting_save,,VOUCHER_SETTINGS_SAVE,Mobile,,Sauvegarder,Save
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_list_setting_confirm_question,,,,Android,,Êtes-vous certain de ne plus vouloir utiliser vos chèques-récompense par l'entremise de l'appli mobile et de vouloir les recevoir par la poste?,Are you sure you no longer want to access your reward cheques through the mobile app but prefer to get them by mail instead?
+,,Scott Cameron,26 juillet 2018,Misc,,yes,,YES,Mobile,,Oui,Yes
+,,Scott Cameron,26 juillet 2018,Misc,,no,,NON,Mobile,,Non,No
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_text,,VOUCHER_APPROVAL_TITLE,Mobile,,Vos chèques-récompense dans votre mobile ,Your reward cheques on your mobile
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_button,,VOUCHER_APPROVAL_HELP,Mobile,,Voir,Tap here
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_my_vouchers,,HOME_TABBAR_MYVOUCHERS_TITLE,Mobile,,Mes récompenses,My rewards
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_help_title,,VOUCHER_APPROVAL_HELP_DETAIL_TITLE,Mobile,,Recevez votre chèque-récompense dans votre appli plutôt que par la poste,Receive your rewards cheque in your app instead of by mail
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_checkbox,,VOUCHER_APPROVAL_CONSENT,Mobile,,Je comprends que mes chèques-récompenses et coupons reliés à ceux-ci seront dorénavant envoyés uniquement sur mon appli Mon Metro,I understand that I will receive my reward cheques and personalized coupons related to the reward cheques only through the My Metro app.
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_enter_postal_code,,VOUCHER_APPROVAL_POSTALCODE,Mobile,,Entrez le code postal associé à votre carte metro&moi,Enter the postal code associated to your metro&moi card
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_postal_code,,VOUCHER_APPROVAL_POSTALCODE_PLACEHOLDER,Mobile,,Code postal,Postal code
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_enter_email,,VOUCHER_APPROVAL_EMAIL,Mobile,,Entrez mon adresse courriel pour être informé dès que ma nouvelle récompense est disponible,Enter my email to be informed as soons as a new reward is available.
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_email,,VOUCHER_APPROVAL_EMAIL_PLACEHOLDER,Mobile,,Courriel ,Email
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_unsubscribe_notice,,VOUCHER_APPROVAL_EMAIL_NOTICE,Mobile,,* Vous pouvez vous désabonner en tout temps,* You can unsubscribe at any time
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_error_text,,VOUCHER_APPROVAL_UNKNOWN_ERROR,Mobile,,Erreur,Error
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_error_invalid_postal_code,,VOUCHER_APPROVAL_INVALID_POSTALCODE,Mobile,,Code postal invalide,Invalid postal code
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_card_banned,,VOUCHER_APPROVAL_BANNED,Mobile,,Le nombre de tentatives de validation de code postal est dépassé. L'accès à vos chèques-récompense est temporairement bloqué. Veuillez réessayer dans 24 h.,The number of attempts to validate your postal code have been exceeded. Access to your rewards cheques has been blocked. Please try again in 24 hours.
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_verify_invalid_postal_code,,,,Android,,Oups! Code postal invalide,Oups! Invalid postal code
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_confirm_label,,VOUCHER_APPROVAL_CONFIRMATION_NAVBAR_TITLE,Mobile,,Information,Information
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_confirm_description,,VOUCHER_APPROVAL_CONFIRMATION_TITLE,Mobile,,Vous pourrez maintenant utiliser vos chèques-récompense sur votre mobile,You can now redeem your reward cheques on your mobile
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_verify_confirm_content,,,,Android,,Un courriel vous sera acheminé à {{text}} lorsqu'un nouveau chèque-récompense sera disponible.,An email will be sent to {{text}} when a new rewards cheque is available
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_confirm_button,,VOUCHER_APPROVAL_CONFIRMATION_BUTTON_TEXT,Mobile,,Voir mes récompenses,See my rewards
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_help_label,,VOUCHER_APPROVAL_HELP_NAVBAR_TITLE,Mobile,,Information,Information
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_help_description,,VOUCHER_APPROVAL_HELP_TITLE,Mobile,,Fini les récompenses oubliées!,No more forgotten rewards!
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_description,,VOUCHER_APPROVAL_TEXT,Mobile,,Recevez votre chèque-récompense dans votre appli plutôt que par la poste,Receive your rewards cheque in your app instead of by mail
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_help_content_1,,VOUCHER_APPROVAL_HELP_DETAIL_LINE1,Mobile,,Toujours à portée de main,Always close at hand
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_help_content_2,,VOUCHER_APPROVAL_HELP_DETAIL_LINE2,Mobile,,Accès à votre historique de chèque-récompense,Access to your reward cheques history
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_verify_help_content_3,,VOUCHER_APPROVAL_HELP_DETAIL_LINE3,Mobile,,"Moins de papier, plus de simplicité","Less paper, way simpler"
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_detail_label,,VOUCHER_DETAIL_NAVBAR,Mobile,,Mon chèque-récompense,My reward cheque
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_detail_description_1,,VOUCHER_DETAIL_TITLE,Mobile,,Voici votre chèque-récompense!,Here is your rewards cheque!
+,,Scott Cameron,26 juillet 2018,Voucher,,voucher_detail_description_2,,VOUCHER_DETAIL_SUBTITLE,Mobile,,Présentez-le à la caisse,Show it to the cashier
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_detail_expire_time,,,,Android,,Applicable à une facture d'épicerie chez Metro\nValide jusqu'au {{text}},Applicable on your purchases at metro\nValid until {{text}} 
+,,Scott Cameron,26 juillet 2018,Voucher,voucher_amount_format,,,,Android,,{{number}} $,${{number}}
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_fail,,,,Android,,Erreur sur l'enregistrement de votre carte AIR MILES<sup><small>MD</small></sup>,Failed to register your AIR MILES® card
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_required,,REQUIRED,Mobile,,Requis * ,Required *
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_first_name,,FIRSTNAME,Mobile,,Prénom *,First name *
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_last_name,,LASTNAME,Mobile,,Nom,Last name
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_email,,EMAIL,Mobile,,Courriel *,Email *
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_title_1,,,,Android,,AIR MILES<sup><small>MD</small></sup> * ,AIR MILES® * 
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_title_2,,METRO_NEWS_LETTER_TITLE,Mobile,,Infolettre metro.ca,Metro.ca newsletter
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_title_3,,METRO_PARTNERS_TITLE,Mobile,,Metro et ses partenaires,Metro and its partners
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_checkbox_1,,,,Android,,"Je désire recevoir des communications électroniques (nouvelles, offres et promotions) en lien avec le programme de récompense AIR MILES<sup><small>MD</small></sup> de la part de Metro Ontario inc. à titre de commanditaire du programme de récompense AIR MILES<sup><small>MD</small></sup>. Je pourrai retirer mon consentement à tout moment.","I would like to receive electronic communications (Program updates, offers and promotions) relating to the AIR MILES® reward Program from Metro Ontario Inc. acting as an AIR MILES® Reward Program Sponsor. I may withdraw my consent at any time."
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_checkbox_3,,,,Android,,Je désire recevoir l'infolettre de metro.ca qui inclut : ,I would like to receive the metro.ca newsletter which includes:
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_checkbox_3_1,,,,Android,,"•\u0020\u0020\u0020\u0020des idées recettes dont un menu de la semaine s'inspirant des soldes de la circulaire,",•\u0020\u0020\u0020\u0020recipe ideas including a weely menu based on flyer specials
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_checkbox_3_2,,,,Android,,"•\u0020\u0020\u0020\u0020des suggestions en matière d'alimentation,",•\u0020\u0020\u0020\u0020nutritional information
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_checkbox_3_3,,,,Android,,"•\u0020\u0020\u0020\u0020des offres et promotions spéciales,",•\u0020\u0020\u0020\u0020special offers and promotions
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_checkbox_3_4,,,,Android,,•\u0020\u0020\u0020\u0020et de l'information sur les produits et services de Metro.,•\u0020\u0020\u0020\u0020information on our products and services
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_checkbox_4,,METRO_PARTNERS,Mobile,,"Je désire recevoir des offres, sondages et promotions occasionnelles présentées par Metro dont certaines peuvent être en association avec des partenaires de confiance.","I would like to receive occasional offers, surveys and promotions prensented by Metro which may be in association with trusted parthers"
+,,Scott Cameron,26 juillet 2018,Add Card,card_air_miles,,,,Android,,AIR MILES<sup><small>MD</small></sup>,AIR MILES®
+,,Scott Cameron,26 juillet 2018,Add Card,card_thunder_bucks,,,,Android,,Points Thunder ,Thunder Bucks
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_legal_2,,IN_QUEBEC,Mobile,,Au Québec :,In Quebec:
+,,Scott Cameron,26 juillet 2018,Add Card,,card_add_am_legal_4,,IN_ONTARIO,Mobile,,En Ontario :,In Ontario:
+,,Scott Cameron,26 juillet 2018,Add Card,card_help,,,,Android,,Aide,Help
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_legal_1,,,,Android,,"Je comprends qu'en appuyant sur « Confirmer » j'accepte de recevoir les communications électroniques sélectionnées ci-haut de Metro inc. et,","I understand that by clicking \Confirm\"" I agree to receive the electronic communications selected above from Metro Inc. and"""
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_legal_3,,,,Android,,"Metro Richelieu Inc. 11 011 Maurice-Duplessis Blvd, \nMontréal, Québec, H1C 1V6\nService aux consommateurs : 1 866 595-5564 ","Metro Richelieu Inc. 11 011 Maurice-Duplessis Blvd, Montréal, Quebec, H1C 1V6\nCustomer Care: 1 866 595-5564"
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_legal_5,,,,Android,,"Metro Ontrario Inc. et Metro Ontario Pharmacies Limited. 5559 Dundas Street, West Etobicoke, Ontario, M9B 1B9 Customer Care : 1 866 922-7427","Metro Ontrario Inc. and Metro Ontario Pharmacies Limited. 5559 Dundas Street, West Etobicoke, Ontario, M9B 1B9 Customer Care : 1 866 922-7427 "
+,,Scott Cameron,26 juillet 2018,Add Card,card_add_am_legal_6,,,,Android,,Je pourrai retirer mon consentement à tout moment,I may withdraw my consent at any time.
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_your_selected_coupons,,SELECTED_COUPONS_TITLE,Mobile,,Vos coupons sélectionnés,Your selected coupons
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_no_coupon,,SELECTED_COUPONS_NO_COUPONS,Mobile,,Votre carte ne contient aucun coupon,No coupons are currently on your card
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_add_coupon,,ADD_COUPONS,Mobile,,Ajoutez des coupons,Add Coupons
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_selected_coupons_page,,SELECTED_COUPONS_TEXT,Mobile,,{{number}} de {{number}},{{number}} of {{number}}
+,,Scott Cameron,26 juillet 2018,Errors,,error_no_camera_permission,,CAMERA_PERMISSION_TEXT,Mobile,,"Pour lire votre carte, vous devez autoriser metro à accéder votre caméra.","To scan your card, you have to allow metro to access the camera. "
+,,Scott Cameron,26 juillet 2018,Store,,start_select_store_message,,INTRO_SELECT_STORE,Mobile,,"Afin de mieux vous servir, choisissez votre metro préféré.","To better serve you, choose your favourite metro store"
+,,Scott Cameron,26 juillet 2018,Store,,start_select_store,,SELECT_MY_METRO,Mobile,,Choisir mon metro,Choose my metro
+,,Scott Cameron,26 juillet 2018,Store,,store_select,,CHOOSE_YOUR_STORE_DETAIL,Mobile,,Choisir ce metro,Select this metro
+,,Scott Cameron,26 juillet 2018,Store,,store_search_hint,,STORE_LOCATOR_SEARCH,Mobile,,Code postal ou ville,Postal code or city
+,,Scott Cameron,26 juillet 2018,Store,,cancel,,CANCEL,Mobile,,Annuler,Cancel
+,,Scott Cameron,26 juillet 2018,Store,store_detail,,,,Android,,Détails,Details
+,,Scott Cameron,26 juillet 2018,Store,store_locator,,,,Android,,Localisateur de magasin,Store locator
+,,Scott Cameron,26 juillet 2018,Store,gps,,,,Android,,GPS,GPS
+,,Scott Cameron,26 juillet 2018,Store,distance_format,,,,Android,,{{float:0}} km,{{float:0}} km
+,,Scott Cameron,26 juillet 2018,Store,distance_format_decimal,,,,Android,,{{float:1}} km,{{float:1}} km
+,,Scott Cameron,26 juillet 2018,Store,,store_detail_call,,CALL,Mobile,,Téléphonez,Call
+,,Scott Cameron,26 juillet 2018,Store,,store_detail_direction,,ITINERARY,Mobile,,Itinéraire,Itinerary
+,,Scott Cameron,26 juillet 2018,Store,,store_selected,,STORE_SELECTED_TITLE,Mobile,,Magasin sélectionné,Store selected
+,,Scott Cameron,26 juillet 2018,Store,,store_search_empty,,STORE_SEARCH_NO_STORE_FOUND,Mobile,,Aucun magasin trouvé,No stores found
+,,Scott Cameron,26 juillet 2018,Store,,store_detail_hours,,STORE_INFO_SCHEDULE,Mobile,,Horaire,Schedule
+,,Scott Cameron,26 juillet 2018,Store,,store_detail_service,,STORE_INFO_SERVICES,Mobile,,Services,Services
+,,Scott Cameron,26 juillet 2018,Store,,store_detail_pharmacy,,STORE_INFO_DRUGSTORE,Mobile,,Pharmacie,Pharmacy
+,,Thi Phi Phuong Le,25 mars 2019,Store,,store_detail_store_hours,,SCHEDULE_TITLE,Mobile,,Heures d'ouverture,Opening hours
+,,Scott Cameron,26 juillet 2018,Store,,sunday,,SCHEDULE_DAY_0,Mobile,,Dimanche,Sunday
+,,Scott Cameron,26 juillet 2018,Store,,monday,,SCHEDULE_DAY_1,Mobile,,Lundi,Monday
+,,Scott Cameron,26 juillet 2018,Store,,tuesday,,SCHEDULE_DAY_2,Mobile,,Mardi,Tuesday
+,,Scott Cameron,26 juillet 2018,Store,,wednesday,,SCHEDULE_DAY_3,Mobile,,Mercredi,Wednesday
+,,Scott Cameron,26 juillet 2018,Store,,thursday,,SCHEDULE_DAY_4,Mobile,,Jeudi,Thursday
+,,Scott Cameron,26 juillet 2018,Store,,friday,,SCHEDULE_DAY_5,Mobile,,Vendredi,Friday
+,,Scott Cameron,26 juillet 2018,Store,,saturday,,SCHEDULE_DAY_6,Mobile,,Samedi,Saturday
+,,Scott Cameron,26 juillet 2018,Store,store_detail_pharmacy_hours,,,,Android,,Heures d'ouvertures de la pharmacie,Pharmacy opening hours
+,,Scott Cameron,26 juillet 2018,Store,,store_detail_open_24_hours,,SCHEDULE_OPEN_24H,Mobile,,Ouvert 24h,Open 24h
+,,Scott Cameron,26 juillet 2018,Misc,notification_dialog_title,,,,Android,,Notifications,Notifications
+,,Scott Cameron,26 juillet 2018,Misc,,notification_dialog_message,,NOTIFICATION_MESSAGE,Mobile,,Voulez-vous recevoir des notifications pour des offres exclusives?,Do you want to receive notifications about exclusive offers
+,,Scott Cameron,26 juillet 2018,Misc,,notification_dialog_no,,NO_THANKS,Mobile,,Non merci,No
+,,Scott Cameron,26 juillet 2018,Misc,,notification_dialog_later,,MAYBE_LATER,Mobile,,Plus tard,Maybe later
+,,Scott Cameron,26 juillet 2018,Misc,ok,,,,Android,,OK,OK
+,,Scott Cameron,26 juillet 2018,Misc,error_retry,,,,Android,,Essayez à nouveau,Retry
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_mass_no_card,,,,Android,,Coupons sur des produits vedettes,Coupons sur des produits vedettes
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_mass_has_card,,,,Android,,Autres coupons sur des produits vedettes,Autres coupons sur des produits vedettes
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_personalized_mm,,,,Android,,Mes coupons metro&moi personnalisés,Mes coupons metro&moi personnalisés
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_personalized_am,,,,Android,,Mes coupons AIR MILES<sup><small>MD</small></sup> personnalisés,Mes coupons AIR MILES<sup><small>MD</small></sup> personnalisés
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_personalized_tb,,,,Android,,Mes coupons Thunder Buck personnalisés,Mes coupons Thunder Buck personnalisés
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_inspiration,,,,Android,,Vous pourriez aussi aimer,Vous pourriez aussi aimer
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_mqm_mm,,,,Android,,Mes coupons reçus avec ma récompense,Mes coupons reçus avec ma récompense
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_mqm_am,,,,Android,,Mes coupons Metro reçus par courriel,Mes coupons Metro reçus par courriel
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_mqm_tb,,,,Android,,Mes coupons Thunder Buck reçus par la poste,Mes coupons Thunder Buck reçus par la poste
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_bcm,,,,Android,,Mes coupons metro&moi reçus par la poste,Mes coupons metro&moi reçus par la poste
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_pre_earn,,,,Android,,Obtenez,Obtenez
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_pre_get,,,,Android,,Obtenez,Obtenez
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_benefit_pre_bonus,,COUPONS_ACTION_TITLE_BONUS,Mobile,,Bonus,Bonus
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_pre_save,,,,Android,,Rabais,Rabais
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_double,,,,Android,,Doublez,Doublez
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_triple,,,,Android,,Triplez,Triplez
+,,Scott Cameron,26 juillet 2018,Coupon,,coupon_benefit_post_points,,COUPONS_TYPE_TITLE_MM,Mobile,,pts,pts
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_post_miles,,,,Android,,milles de récompense AIR MILES<sup><small>MD</small></sup>,milles de récompense AIR MILES<sup><small>MD</small></sup>
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_post_tb_points,,,,Android,,Thunder Points,Thunder Points
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_post_your_points,,,,Android,,vos points,vos points
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_benefit_dollars_format,,,,Android,,{{float:1}} $,{{float:1}} $
+,,Scott Cameron,26 juillet 2018,Coupon,,shopping_list_sync_message,,SHOPPING_LIST_UPDATING,Mobile,,Actualisation,Updating
+,,Scott Cameron,26 juillet 2018,Dashboard,feature_salutation_format,,,,Android,,Bonjour{{text}},Hello{{text}}
+,,Scott Cameron,26 juillet 2018,Dashboard,,feature_points_pre,,METRO_CARD_GREETINGS_POINTS_PREFIX,Mobile,,Vous avez ,You have 
+,,Scott Cameron,26 juillet 2018,Dashboard,,feature_points_pre,,METRO_CARD_GREETINGS_POINTS_PREFIX_IOS,IOS,,Vous avez\U0020,You have\U0020
+,,Scott Cameron,26 juillet 2018,Dashboard,,feature_points_post,,METRO_CARD_GREETINGS_POINTS_SUFFIX,Mobile,, points , points 
+,,Scott Cameron,26 juillet 2018,Dashboard,,feature_points_post,,METRO_CARD_GREETINGS_POINTS_SUFFIX_IOS,IOS,,\U0020points\U0020,\U0020points\U0020
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_tutorial_text_1,,,,Android,,Appuyer sur les coupons et ils seront automatiquement ajoutés à votre carte {{text}}. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.,Tap a coupon to select it and load it to your {{text}} card. Present your card at checkout and the coupons will be automatically applied on eligible products.
+,,Scott Cameron,26 juillet 2018,Coupon,COUPON_SPLASHSCREEN_TITLE,,,,IOS,,Appuyer sur les coupons et ils seront automatiquement ajoutés à votre carte metro&moi. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.,Tap a coupon to select it and load it to your metro&moi card. Present your card at checkout and the coupons will be automatically applied on eligible products.
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_clean,,CLEAN_LIST,Mobile,,Effacer les items sélectionnés,Remove selected items
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_clear,,DELETE_ALL,Mobile,,Supprimer tous les items,Remove all items
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_clear_dialog_message,,DELETE_ALL_MESSAGE,Mobile,,Tous les items seront effacés,All items will be removed
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_remove_coupon,,DELETE_COUPONS,Mobile,,Retirer les coupons,Delete coupons
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_product_family_coupon_fr,,,,Android,,Produits requis pour vos coupons,Produits requis pour vos coupons
+,,Scott Cameron,26 juillet 2018,Shopping list,shopping_list_product_family_coupon_en,,,COUPON_CATEGORY_TITLE,Android,,Products required for your coupons,Products required for your coupons
+,,Scott Cameron,26 juillet 2018,Coupon,COUPON_CATEGORY_TITLE,,,,IOS,,Produits requis pour vos coupons,Products required for your coupons
+,,Scott Cameron,26 juillet 2018,Flyers,,flyer_detail_label_expried,,COUPON_PAST_DAYS,Mobile,,Cette promotion n'est pas disponible pour la circulaire sélectionnée,This promotion is not available for the selected flyer 
+,,Scott Cameron,26 juillet 2018,Dashboard,,dashboard_remove_card_dialog_message,,REMOVE_CARD_CONFIRMATION,Mobile,,Retirer votre carte?,Do you really want to remove your card?
+,,Scott Cameron,26 juillet 2018,Store,gps_dialog_title,,,,Android,,Aucun GPS,No GPS
+,,Scott Cameron,26 juillet 2018,Store,gps_dialog_message,,,,Android,,Aucun GPS disponible,No GPS available
+,,Scott Cameron,26 juillet 2018,Store,gps_dialog_button,,,,Android,,Configuration,Settings
+,,Scott Cameron,26 juillet 2018,Forced update,,force_update_dialog_title,,UPDATE_REQUIRED_TITLE,Mobile,,Mise à jour nécessaire,Update required
+,,Scott Cameron,26 juillet 2018,Forced update,,force_update_dialog_message,,UPDATE_REQUIRED_DESC,Mobile,,"Cette version de l’application n’est plus supportée, veuillez télécharger la dernière version pour profiter des nouvelles fonctionnalités!","This app version is no longer supported, please download the latest version to take advantage of all our new features!"
+,,Scott Cameron,26 juillet 2018,Forced update,,force_update_dialog_button,,UPDATE_REQUIRED_ACCEPT,Mobile,,Mettre à jour,Update now
+,,Scott Cameron,26 juillet 2018,Forced update,update_dialog_title,,,,Android,,Mise-à-jour recommandée,Update recommended
+,,Scott Cameron,26 juillet 2018,Forced update,update_dialog_message,,,,Android,,Une nouvelle version de l'appli est disponible,A new version of the app is available
+,,Scott Cameron,26 juillet 2018,Forced update,update_dialog_button,,,,Android,,Je comprends,I understand
+,,Scott Cameron,26 juillet 2018,Store,,store_in_range_desc_voucher,,PROXIMITY_INTERACTION_VOUCHERS,Mobile,,Vous avez un\nchèque-récompense non-utilisé,You have a\nreward cheque available
+,,Scott Cameron,26 juillet 2018,Store,,store_in_range_desc_list,,PROXIMITY_INTERACTION_SHOPPING_LIST,Mobile,,Consultez votre\nliste d'épicerie,Consult your\nshopping list
+,,Scott Cameron,26 juillet 2018,Store,,store_in_range_desc_coupon,,PROXIMITY_INTERACTION_COUPONS,Mobile,,N'oubliez pas\nvos coupons!,Don't forget \nyour coupons!
+,,Scott Cameron,26 juillet 2018,Shopping list,usual_product_detail,,,,Android,,Détail du produit,Product details
+,,Scott Cameron,26 juillet 2018,Shopping list,usual_product_add,,,,Mobile,,Ajouter à la liste,Add to list
+,,Scott Cameron,26 juillet 2018,Shopping list,usual_product_remove,,,,Android,,Retirer de la liste,Removed from list
+,,Scott Cameron,26 juillet 2018,Store,feature_store_hour_24,,,,Android,,Ouvert aujourd'hui : Ouvert 24h,Open today : Open 24h
+,,Scott Cameron,26 juillet 2018,Store,store_in_range_title,,,,Android,,Bienvenue au Metro\n{{text}},Welcome to Metro\n{{text}}
+,,Scott Cameron,26 juillet 2018,Store,store_in_range_title_plus,,,,Android,,Bienvenue au Metro Plus\n{{text}},Welcome to Metro Plus\n{{text}}
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_open_scan,,GUIDE_SCAN_ITEM,Mobile,,Balayer un article,Scan a product
+,,Scott Cameron,26 juillet 2018,Shopping list,,scan_product_added,,SCAN_PRODUCT_ADDED,Mobile,,Produit ajouté!,Product added!
+,,Scott Cameron,26 juillet 2018,Shopping list,,scan_product_not_found,,SCAN_PRODUCT_NOT_FOUND,Mobile,,Le produit n'a pas été trouvé!,Product not found!
+,,Scott Cameron,26 juillet 2018,Shopping list,scan_product_add,,,,Android,,Ajouter à la liste,Added to list
+,,Scott Cameron,26 juillet 2018,Shopping list,scan_product_remove,,,,Android,,Retirer de la liste,Removed from list
+,,Scott Cameron,26 juillet 2018,Shopping list,scan_product_detail,,,,Android,,Détail du produit,Product details
+,,Scott Cameron,26 juillet 2018,Shopping list,scan_product_removed,,,,Android,,Retiré,Removed
+,,Scott Cameron,26 juillet 2018,Shopping list,,scan_product_guide_message,,SCAN_PRODUCT_GUIDE_MESSAGE,Mobile,,Balayer le code-barres d'un article pour l'ajouter à votre liste,Scan a product's barcode to add it to your list
+,,Scott Cameron,26 juillet 2018,Errors,error_open_camera_fail,,,,Android,,Erreur sur le démarrage de la caméra,Failed to start camera
+,,Scott Cameron,26 juillet 2018,Shopping list,,item_grocery_note_hint,,SHOPPING_CELL_ADD_NOTE,Mobile,,Ajouter une note,Add a note
+,,Scott Cameron,26 juillet 2018,Shopping list,,quantity_dialog_title,,SHOPPING_LIST_QUANTITY,Mobile,,Quantité,Quantity
+,,Scott Cameron,26 juillet 2018,Shopping list,,item_grocery_create_grocery_list,,SHOPPING_LIST_QUICK_BUILD,Mobile,,Construisez votre liste rapidement,Quickly build your list
+,,Scott Cameron,26 juillet 2018,Shopping list,,grocery_list_header_usual,,SHOPPING_LIST_USUALS,Mobile,,Essentiels,Usuals
+,,Scott Cameron,26 juillet 2018,Shopping list,,grocery_list_header_flyer,,SHOPPING_LIST_OFFERS,Mobile,,Offres circulaire,Flyer offers
+,,Scott Cameron,26 juillet 2018,Shopping list,,shopping_list_return,,SHOPPING_LIST_RETURN,Mobile,,Retour à ma liste,Back to my list
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_tutorial_text_mm,,,,Android,,Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte metro&moi. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.,Tap a coupon to select it and load it to your metro&moi card. Present your card at checkout and the coupons will be automatically applied on eligible products.
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_tutorial_text_am,,,,Android,,<![CDATA[Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte AIR MILES<sup><small><small>MD</small></small></sup>. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.]]>,Tap a coupon to select it and load it to your AIR MILES<sup><small>&#174;</small></sup> card. Present your card at checkout and the coupons will be automatically applied on eligible products.
+,,Scott Cameron,26 juillet 2018,Coupon,coupon_tutorial_text_tb,,,,Android,,Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte Points Thunder. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.,Tap a coupon to select it and load it to your Thunder Bucks card. Present your card at checkout and the coupons will be automatically applied on eligible products.
+,,Scott Cameron,26 juillet 2018,Coupon,COUPON_SPLASHSCREEN_TITLE_GENERIC,,,,IOS,,Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte {{text}}. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.,Tap a coupon to select it and load it to your {{text}} card. Present your card at checkout and the coupons will be automatically applied on eligible products.
+,,Scott Cameron,26 juillet 2018,Coupon,,special_coupon_valid_until,,AIR_MILE_VALID_UNTIL,Mobile,,Valide jusqu'au {{text}},Valid until {{text}}
+,,Scott Cameron,26 juillet 2018,Coupon,,special_coupon_title_get,,COUPONS_ACTION_TITLE_EARNV2,Mobile,,Obtenez,Get
+,,Scott Cameron,26 juillet 2018,Coupon,,special_coupon_title_value,,TITLE_AIR_MILES_VALUE,Mobile,,Milles en prime††,Bonus Miles††
+,,Scott Cameron,26 juillet 2018,Coupon,,special_coupon_title,,SPECIAL_AM_OFFER_TITLE,Mobile,,Offre spéciale AIR MILES<sup><small><small>MD</small></small></sup>,Special AIR MILES® offer
+,,Scott Cameron,26 juillet 2018,Coupon,,special_coupon_text,,SPECIAL_AM_OFFER_TEXT,Mobile,,Échangez vos milles de votre solde Argent AIR MILES<sup><small><small>MD</small></small></sup>  à la caisse et recevez des milles en prime,Redeem from your AIR MILES® Cash Account at till and get Bonus Miles
+,,Scott Cameron,26 juillet 2018,Coupon,,special_coupon_proximity_text,,PROXIMITY_INTERACTION_AM_COUPON,Mobile,,Utiliser ma récompense AIR MILES,View my AIR MILES Offers
+,,Scott Cameron,26 juillet 2018,Navigation,HOME_TABBAR_AM,,,,IOS,,AIR MILESᴹᴰ,AIR MILES®
+,,Scott Cameron,26 juillet 2018,Navigation,HOME_TABBAR_TB,,,,IOS,,Points Thunder,Thunder Bucks
+,,Scott Cameron,26 juillet 2018,Navigation,HOME_TABBAR_METROANDME_TITLE,,,,IOS,,Ma carte metro&moi,My metro&moi card
+,,Scott Cameron,26 juillet 2018,Navigation,HOME_TABBAR_AIRMILES_TITLE,,,,IOS,,AIR MILESᴹᴰ,AIR MILES®
+,,Scott Cameron,26 juillet 2018,Navigation,HOME_TABBAR_THUNDERBUCKS_TITLE,,,,IOS,,Points Thunder,Thunder Bucks
+,,Scott Cameron,26 juillet 2018,Misc,TRADEMARK_STRING,,,,IOS,,ᴹᴰ,®
+,,Scott Cameron,26 juillet 2018,Errors,ACCUEIL_SPECIAUX_ERROR,,,,IOS,,Impossible d'obtenir les spéciaux en ce moment,Unable to get the specials at this moment
+,,Scott Cameron,26 juillet 2018,Dashboard,ACCUEIL_FLYER_ITEM_POINTS_TEXT,,,,IOS,,Bonus {{text}} points,Bonus {{text}} points
+,,Scott Cameron,26 juillet 2018,Store,ACCUEIL_STORE_SCHEDULE,,,,IOS,,Ouvert aujourd'hui : {{text}},Open today : {{text}}
+,,Scott Cameron,26 juillet 2018,Errors,FLYER_ITEM_ERROR_MESSAGE,,,,Mobile,,Une erreur est survenue lors du chargement du produit,An error occured when loading product details
+,,Scott Cameron,26 juillet 2018,Flyers,FLYER_ITEM_POINTS_TEXT,,,,IOS,,{{text}} points,{{text}} points
+,,Scott Cameron,26 juillet 2018,Flyers,FLYER_ITEM_VALIDITY_NEXT,,,,IOS,,Attention! La promotion sera effective à partir de {{text}},Be advised! The promotion will be effective from {{text}}
+,,Scott Cameron,26 juillet 2018,Flyers,OFF,,,,IOS,, {{text}} DE RABAIS,{{text}} OFF
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_NO_COUPON_TEXT,,,,IOS,,Aucun coupon n'est disponible,No coupons are currently available
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_NB_AVAILABLE,,,,IOS,,{{number}} coupons disponibles,{{number}} available coupons
+,,Scott Cameron,26 juillet 2018,Coupon,COUPON_NB_AVAILABLE,,,,IOS,,{{number}} coupon disponible,{{number}} available coupon
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_PTS_AM,,,,IOS,,\U0020milles AIR MILESᴹᴰ en prime,\U0020AIR MILES® bonus miles
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_REBATE,,,,IOS,,Rabais {{text}},{{text}} Off
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_POINTS_BONUS,,,,IOS,,Bonus {{text}} pts,Bonus {{text}} pts
+,,Scott Cameron,26 juillet 2018,Coupon,COUPON_GROCERY_TITLE_ITEM,,,,IOS,,{{text}} : {{text}} , {{text}} : {{text}} 
+,,Scott Cameron,26 juillet 2018,Coupon,COUPON_ERROR,,,,IOS,,Erreur sur la sauvegarde du coupon,Error when clipping a coupon
+,,Scott Cameron,26 juillet 2018,Misc,CELL_SEE_DETAILS,,,,IOS,,Détails,Details
+,,Scott Cameron,26 juillet 2018,Shopping list,GROCERYLIST_CANCEL_BUTTON,,,,IOS,,Annuler,Cancel
+,,Scott Cameron,26 juillet 2018,Shopping list,GROCERYLIST_SHARING_LAST_LINE,,,,IOS,,\n\n Télécharger l'appli Mon Metro - https://www.metro.ca/application-mobile,\n\n Download the mobile app My Metro - https://www.metro.ca/en/mobile-application
+,,Scott Cameron,26 juillet 2018,Shopping list,GROCERYLIST_SHARING_ITEM_LINE,,,,IOS,,\n    - {{text}},\n    - {{text}}
+,,Scott Cameron,26 juillet 2018,Shopping list,GROCERYLIST_SHARING_NOTE_LINE,,,,IOS,,(note: {{text}}),(note: {{text}})
+,,Scott Cameron,26 juillet 2018,Shopping list,PRODUCT_DETAIL,,,,IOS,,Détail du produit,Product details
+,,Scott Cameron,26 juillet 2018,Add Card,CONNECT_CARD_INSTRUCTION_TB,,,,IOS,,Entrez votre carte Thunder Bucks pour personnaliser votre expérience.,Enter your Thunder Bucks card to personalize your experience 
+,,Scott Cameron,26 juillet 2018,Add Card,CONNECT_CARD_INSTRUCTION_AM,,,,IOS,,Entrez votre numéro de carte AIR MILESᴹᴰ pour personnaliser votre expérience.,Enter your AIR MILES® card number to personalize your experience 
+,,Scott Cameron,26 juillet 2018,Errors,GUIDE_ITEM_0_TITLE_1,,,,IOS,,Vous n’avez pas encore d'essentiels,You don't have any usuals yet
+,,Scott Cameron,26 juillet 2018,Errors,GUIDE_ITEM_1_TITLE_1,,,,IOS,,Vous n’avez pas encore de coupons,You don't have any coupons yet
+,,Scott Cameron,26 juillet 2018,Errors,GUIDE_ITEM_2_TITLE_1,,,,IOS,,Vous n’avez pas encore d'offres,You don't have any offers yet
+,,Scott Cameron,26 juillet 2018,Errors,GUIDE_ITEM_GENERIC_ERROR,,,,IOS,,Une erreur est survenue,An error occured
+,,Scott Cameron,26 juillet 2018,Misc,PLUS_LANGUAGE_NAME,,,,IOS,,Français,English
+,,Scott Cameron,26 juillet 2018,Misc,PLUS_VERSION,,,,IOS,,Version : ,Version:
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_REMOVECARD,,,,IOS,,Retirer votre carte,Remove your card
+,,Scott Cameron,26 juillet 2018,Dashboard,THUNDERBUCKS_CARD_VALIDATE,,,,IOS,,Continuer,Continue
+,,Scott Cameron,26 juillet 2018,Errors,AIRMILES_CARD_GENERIC_ERROR,,,,IOS,,Erreur 466,Error 466
+,,Scott Cameron,26 juillet 2018,Add Card,METRO_CARD_TEXT_PLACEHOLDER,,,,IOS,,Entrez votre numéro de carte,Enter your card number
+,,Scott Cameron,26 juillet 2018,Add Card,METRO_CARD_INSTRUCTIONS,,,,IOS,,Entrez votre carte metro&moi pour personnaliser votre expérience.,Enter your metro&moi card to personalize your experience
+,,Scott Cameron,26 juillet 2018,Add Card,AIRMILES_CARD_INSTRUCTIONS,,,,IOS,,Entrez votre numéro de carte AIR MILESᴹᴰ pour personnaliser votre expérience.,Enter your AIR MILES® card number to personalize your experience 
+,,Scott Cameron,26 juillet 2018,Add Card,AIRMILES_CARD_REMOVE_CARD,,,,IOS,,Retirer ma carte AIR MILESᴹᴰ,Remove my AIR MILES® card
+,,Scott Cameron,26 juillet 2018,Add Card,AIRMILES_CARD_HELP_TITLE,,,,IOS,,Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages AIR MILESᴹᴰ.,Scan your card's barcode or type in your card number to take full advantage of the AIR MILES® program.
+,,Scott Cameron,26 juillet 2018,Add Card,METRO_CARD_MUST_SETUP,,,,IOS,,Un numéro de carte est nécessaire,A card number is required
+,,Scott Cameron,26 juillet 2018,Add Card,METRO_CARD_ADDED_TO_WALLET,,,,IOS,,Carte ajoutée,Card added
+,,Scott Cameron,26 juillet 2018,Add Card,METRO_CARD_ERROR_ADDING_IN_WALLET,,,,IOS,,Erreur lors de l'ajout de la carte à Wallet,Error when adding the card to Wallet
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_GREETINGS,,,,IOS,,Bonjour {{text}},Hello {{text}}
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_SIMPLE_GREETINGS,,,,IOS,,Bonjour,Hello
+,,Scott Cameron,26 juillet 2018,Dashboard,AIR_MILES_CARD_POINTS_SUMMARY,,,,IOS,,milles à obtenir,miles to get
+,,Scott Cameron,26 juillet 2018,Dashboard,AIR_MILES_CARD_TITLE,,,,IOS,,Votre carte AIR MILESᴹᴰ ,Your AIR MILES® card 
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_TITLE,,,,IOS,,Votre carte metro&moi,Your metro&moi card
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_TITLE_SECTION_NO_USED_VOUCHERS,,,,IOS,,Aucune récompense utilisée,No unused rewards
+,,Scott Cameron,26 juillet 2018,Dashboard,METRO_CARD_ERROR_GETTING_POINTS,,,,IOS,,Erreur sur la réception du solde de points,Error on getting points balance
+,,Scott Cameron,26 juillet 2018,Errors,METRO_CARD_ERROR_GETTING_VOUCHERS,,,,IOS,,Erreur sur la réception des informations sur les récompenses,Error on getting reward information
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_VALUE,,,,IOS,,Récompense de {{text}} $,Reward of {{text}} $
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_EXPIRE_ON,,,,IOS,,Expire le\U0020,Expires on\U0020
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_EXCHANGED_ON,,,,IOS,,Échangé le\U0020,Redeemed on\U0020
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_EXPIRED_ON,,,,IOS,,Expiré le\U0020,Expired on\U0020
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_SETTINGS_CONFIRM_SAVE,,,,IOS,,Confirmation,Confirm
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_SETTINGS_CONFIRM_TEXT,,,,IOS,,Êtes-vous certain de ne plus vouloir utiliser vos chèques-récompense par l’entremise de l’appli mobile et de vouloir les recevoir par la poste?,Are you sure you no longer want to access your reward cheques through the mobile app but prefer to get them by mail instead?
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_SETTINGS_ERROR_SAVE,,,,IOS,,Erreur sur la sauvegarde. Essayer de nouveau.,Are you sure you no longer want to access your reward cheques through the mobile app but prefer to get them by mail instead?
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_APPROVAL_NAVBAR_TITLE,,,,IOS,,Mes récompenses,My rewards
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_APPROVAL_NO_NETWORK,,,,IOS,,Aucune connection internet,No internet connection
+,,Scott Cameron,26 juillet 2018,Vouchers,voucher_approval_unknownaccount,,,,Mobile,,"Impossible de retrouver vos chèques-récompense. Si votre carte est récente, votre compte sera mis à jour d'ici quelques jours.","Unable to find your reward cheques. If your card is recent, your account will be updated in a few days."
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_APPROVAL_CONFIRMATION_MESSAGE,,,,IOS,,Un courriel vous sera acheminé à {{text}} lorsqu’un nouveau chèque-récompense sera disponible.,An email will be sent to {{text}} when a new rewards cheque is available
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_DETAIL_EXPIRE,,,,IOS,,Applicable à une facture d’épicerie chez Metro\nValide jusqu'au {{text}},Applicable on your purchases at metro\nValid until {{text}}
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_DETAIL_LEGAL,,,,IOS,,"La carte de membre doit être présentée au moment de la transaction. Limite d'une seule utilisation de la présente récompense (papier, mobile ou en ligne) pour la durée de la période de validité. Le montant de la transaction doit être supérieur au montant de la récompense. Aucun remboursement. Aucune remise en argent. Aucune réémission de la récompense. Aucune photocopie n'est acceptée. L'offre n'est pas transférable. Admissible seulement dans les magasins Metro et Metro Plus du Québec participants. Consultez les modalités du programme metro&moi sur metro.ca.MC metro&moi et les points m sont des marques de commerce de Metro Inc.","The metro&moi card must be presented at the cash register. Limit of one use per reward (paper, mobile or online) during the entire validity period. The transaction amount must be greater than the reward amount. No refunds. Cannot be exchanged for cash, Rewards will not be re-awarded. Original coupon required. Offer is non-transferable.Valid only at participating Quebec Metro and Metro Plus stores. Consult the terms and conditions of the metro&moi program at metro.caᵀᴹ metro&moi and m points are trademards of Metro Inc."
+,,Scott Cameron,26 juillet 2018,Vouchers,voucher_detail_legal,,,,Android,,"La carte de membre doit être présentée au moment de la transaction. Limite d'une seule utilisation de la présente récompense (papier, mobile ou en ligne) pour la durée de la période de validité. Le montant de la transaction doit être supérieur au montant de la récompense. Aucun remboursement. Aucune remise en argent. Aucune réémission de la récompense. Aucune photocopie n'est acceptée. L'offre n'est pas transférable. Admissible seulement dans les magasins Metro et Metro Plus du Québec participants. Consultez les modalités du programme metro&moi sur metro.ca.MC metro&moi et les points m sont des marques de commerce de Metro Inc.","The metro&moi card must be presented at the cash register. Limit of one use per reward (paper, mobile or online) during the entire validity period. The transaction amount must be greater than the reward amount. No refunds. Cannot be exchanged for cash, Rewards will not be re-awarded. Original coupon required. Offer is non-transferable.Valid only at participating Quebec Metro and Metro Plus stores. Consult the terms and conditions of the metro&moi program at metro.caᵀᴹ metro&moi and m points are trademards of Metro Inc."
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHER_SHORT_AMOUNT_FORMAT,,,,IOS,,{{text}} $,${{text}}
+,,Scott Cameron,26 juillet 2018,Add Card,AIR_MILES_LEGAL_TITLE,,,,IOS,,AIR MILESᴹᴰ * ,AIR MILES® * 
+,,Scott Cameron,26 juillet 2018,Add Card,AIR_MILES_LEGAL,,,,IOS,,"Je désire recevoir des communications électroniques (nouvelles, offres et promotions) en lien avec le programme de récompense AIR MILESᴹᴰ de la part de Metro Ontario inc. à titre de commanditaire du programme de récompense AIR MILESᴹᴰ. Je pourrai retirer mon consentement à tout moment.","I would like to receive electronic communications (Program updates, offers and promotions) relating to the AIR MILES® reward Program from Metro Ontario Inc. acting as an AIR MILES® Reward Program Sponsor. I may withdraw my consent at any time."
+,,Scott Cameron,26 juillet 2018,Add Card,METRO_NEWS_LETTER,,,,IOS,,"Je désire recevoir l'infolettre de metro.ca qui inclut : <ul><li>des idées recettes dont un menu de la semaine s'inspirant des soldes de la circulaire,</li><li>des suggestions en matière d'alimentation,</li><li>des offres et promotions spéciales,</li><li>et de l'information sur les produits et services de Metro.</li></ul>",I would like to receive the metro.ca newsletter which includes: <ul><li>recipe ideas including a weekly menu based on flyer specials</li><li>nutritional information</li><li>special offers and promotions</li><li>information on our products and services</li></ul>
+,,Scott Cameron,26 juillet 2018,Add Card,LEGAL_INTRO_TEXT,,,,IOS,,"Je comprends qu'en appuyant sur « Confirmer » j'accepte de recevoir les communications électroniques sélectionnées ci-haut de Metro inc. et, \n\n","I understand that by clicking Confirm"" I agree to receive the electronic communications selected above from Metro Inc. and \n\n"""
+,,Scott Cameron,26 juillet 2018,Add Card,LEGAL_QUEBEC_TEXT,,,,IOS,,"\n Metro Richelieu Inc. 11 011 Maurice-Duplessis Blvd,\nMontréal, Quebec, H1C 1 V6\nService aux consommateurs : 1 866 595-5564 \n\n","\n Metro Richelieu Inc. 11 011 Maurice-Duplessis Blvd,\nMontréal, Quebec, H1C 1 V6\nCustomer Care: 1 866 595-5564 \n\n"
+,,Scott Cameron,26 juillet 2018,Add Card,LEGAL_ONTARIO_TEXT,,,,IOS,,"\n Metro Ontrario Inc. et Metro Ontario Pharmacies Limited. \n5559 Dundas Street, West Etobicoke, Ontario, M9B 1 B9 Customer Care : 1 866 922-7427\n\nJe pourrai retirer mon consentement à tout moment","\nMetro Ontrario Inc. and Metro Ontario Pharmacies Limited. 5559 Dundas Street, West Etobicoke, Ontario, M9B 1 B9 Customer Care : 1 866 922-7427\n\nI may withdraw my consent at any time."
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_ACTION_TITLE_EARN,,,,IOS,,Obtenez,Earn
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_ACTION_TITLE_SAVE,,,,IOS,,Rabais,Save
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_ACTION_TITLE_DOUBLE,,,,IOS,,Doublez,Double
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_ACTION_TITLE_TRIPLE,,,,IOS,,Triplez,Triple
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_TYPE_TITLE_AM,,,,IOS,,milles de récompenses AIR MILESᴹᴰ,AIR MILES® reward miles
+,,Scott Cameron,26 juillet 2018,Coupon,COUPONS_TYPE_TITLE_TB,,,,IOS,,points Thunder,Thunder Points
+,,Scott Cameron,26 juillet 2018,Misc,DAY,,,,IOS,,jour ,day 
+,,Scott Cameron,26 juillet 2018,Misc,DAYS,,,,IOS,,jours ,days
+,,Scott Cameron,26 juillet 2018,Misc,DAY_AGO,,,,IOS,,jour ,day ago 
+,,Scott Cameron,26 juillet 2018,Misc,DAYS_AGO,,,,IOS,,jours ,days ago
+,,Scott Cameron,26 juillet 2018,Misc,CAMERA_PERMISSION_TITLE,,,,IOS,,Autoriser la caméra,Allow camera
+,,Scott Cameron,26 juillet 2018,Misc,SETTINGS_TITLE,,,,IOS,,Paramètres,Settings
+,,Scott Cameron,26 juillet 2018,Store,STORE_LOCATOR_TITLE,,,,IOS,,Trouver votre metro,Find your metro
+,,Scott Cameron,26 juillet 2018,coupon,coupon_header_count,,,,Android,,{{number}} coupon disponible,{{number}} available coupon
+,,Scott Cameron,26 juillet 2018,coupon,coupon_header_count,,,,Android,X,{{number}} coupons disponibles,{{number}} available coupons
+,,Scott Cameron,26 juillet 2018,coupon,coupon_expire_format,,,,Android,,{{number}} jour,{{number}} day
+,,Scott Cameron,26 juillet 2018,coupon,coupon_expire_format,,,,Android,X,{{number}} jours,{{number}} days
+,,Scott Cameron,26 juillet 2018,coupon,coupon_used_format,,,,Android,,{{number}} jour,{{number}} day ago
+,,Scott Cameron,26 juillet 2018,coupon,coupon_used_format,,,,Android,X,{{number}} jours,{{number}} days ago
+,,Scott Cameron,26 juillet 2018,coupon,COUPONS_EXPIRE,,,,Android,,Expire,Expires
+,,Scott Cameron,26 juillet 2018,coupon,COUPONS_EXPIRE,,,,IOS,,Expire\U0020,Expires\U0020
+,,Scott Cameron,26 juillet 2018,coupon,COUPONS_TODAY,,,,Mobile,,Aujourd'hui ,Today
+,,Scott Cameron,26 juillet 2018,Misc,DETAIL,,,,IOS,,Détails,Details
+,,Scott Cameron,26 juillet 2018,Misc,GO_TO_PARAMETER,,,,IOS,,Réglages,Settings
+,,Scott Cameron,26 juillet 2018,Errors,LOCATION_ERROR_TITLE,,,,IOS,,Erreur du service de localisation,Location services disabled
+,,Scott Cameron,26 juillet 2018,Errors,LOCATION_ERROR_TEXT,,,,IOS,,Vous devez changer vos paramètres de permissions de localisation dans Réglages → Confidentialité.,"Your location services are disabled. To access location services, please enabled them in Settings → Location Services"
+,,Scott Cameron,26 juillet 2018,Home,METRO_WEBVIEW_FAQ_URL,,,,IOS,,https://www.metro.ca/faq/metro?pl={{number}},https://www.metro.ca/en/faq/metro?pl=%d
+,,Scott Cameron,26 juillet 2018,Home,METRO_WEBVIEW_ABOUT_URL,,,,IOS,,http://corpo.metro.ca/fr/a-propos.html,http://corpo.metro.ca/en/about-us.html
+,,Scott Cameron,26 juillet 2018,Home,METRO_WEBVIEW_CONTACTUS_URL,,,,IOS,,http://corpo.metro.ca/fr/contact-%@.html,http://corpo.metro.ca/en/%@-contact.html
+,,Scott Cameron,26 juillet 2018,Home,METRO_WEBVIEW_TERMSOFUSE_URL,,,,IOS,,https://www.metro.ca/conditions-utilisation,https://www.metro.ca/en/conditions-of-use
+,,Scott Cameron,26 juillet 2018,Home,METRO_WEBVIEW_CONFIDENTIALITY_URL,,,,IOS,,https://www.metro.ca/politique-confidentialite,https://www.metro.ca/en/legal-notice
+,,Scott Cameron,26 juillet 2018,Home,NOT_AVAILABLE,,,,IOS,,Non disponible,Not available
+,,Scott Cameron,26 juillet 2018,Errors,STORE_SEARCH_ERROR,,,,IOS,,Erreur sur la recherche de magasins,Error on finding stores
+,,Scott Cameron,26 juillet 2018,Home,TITLE_AIR_MILES_GET,,,,IOS,,Obtenez,Get
+,,Scott Cameron,26 juillet 2018,Vouchers,VOUCHERS_AVAILABLE,,,,IOS,,Une récompense est disponible,A reward is available
+,,Scott Cameron,26 juillet 2018,Store,WELCOME_TO_STORE,,,,IOS,,Bienvenue au {{text}}\n{{text}}\U0020,Welcome to {{text}}\n{{text}}\U0020
+,,Scott Cameron,26 juillet 2018,0.1 Tutoriel,tutorial_section_title,,,,Mobile,,Tutoriel,Tutorial
+,,Scott Cameron,26 juillet 2018,0.1 Tutoriel,tutorial_close,,,,Mobile,,Fermer,Close
+,,Scott Cameron,26 juillet 2018,0.1 Tutoriel,tutorial_done,,,,Mobile,,Terminer,Done
+,,Scott Cameron,26 juillet 2018,4.11 Modal chèque,dialog_voucher_title,,,,Mobile,,Votre chèque-récompense est arrivé!,Your reward cheque has arrived!
+,,Scott Cameron,26 juillet 2018,4.11 Modal chèque,dialog_voucher_detail,,,,Mobile,,Utilisez-le pour réduire votre facture d’épicerie. Profitez-en!,Use it to save on your next grocery bill. Enjoy it!
+,,Scott Cameron,26 juillet 2018,4.11 Modal chèque,dialog_voucher_see_now_btn,,,,Mobile,,Voir mon chèque,See my cheque
+,,Scott Cameron,26 juillet 2018,4.11 Modal chèque,dialog_voucher_see_later_btn,,,,Mobile,,J'ai compris,I understand
+,,Scott Cameron,26 juillet 2018,4.11 Modal chèque,dialog_voucher_metro_and_me_placeholder,,,,Mobile,,moi,moi
+,,Scott Cameron,26 juillet 2018,1.3 Choix circulaire,date_range,,,,Mobile,,{{text}} au {{text}},{{text}} to {{text}}
+,,Scott Cameron,26 juillet 2018,1.3 Choix circulaire,flyer_current_tab,,,,Mobile,,EN COURS,CURRENT
+,,Scott Cameron,26 juillet 2018,1.3 Choix circulaire,flyer_next_tab,,,,Mobile,,À VENIR,UPCOMING
+,,Scott Cameron,26 juillet 2018,1.3 Choix circulaire,flyer_filter_title,,,,Mobile,,Circulaires,Flyers
+,,Scott Cameron,26 juillet 2018,Tutorial M button,tutorial_m_img,,,,Mobile,,tuto_m_fr_{{number}},tuto_m_en_{{number}}
+,,Scott Cameron,26 juillet 2018,4.6 Dashboard Air Miles,air_miles_balance_title,,,,Android,,"En date du {{text}}, votre solde AIR MILES<sup><small><small>MD</small></small></sup> est:","As of {{text}}, your AIR MILES® Account balances are:"
+,,Scott Cameron,26 juillet 2018,4.6 Dashboard Air Miles,air_miles_balance_title,,,,IOS,,"En date du {{text}}, votre solde AIR MILESᴹᴰ est:","As of {{text}}, your AIR MILES® Account balances are:"
+,,Scott Cameron,26 juillet 2018,4.6 Dashboard Air Miles,am_cash_miles,,,,Mobile,,Miles Argent,Cash Miles
+,,Scott Cameron,26 juillet 2018,4.6 Dashboard Air Miles,am_dream_miles,,,,Mobile,,Miles Rêves,Dream Miles
+,,Scott Cameron,26 juillet 2018,4.6 Dashboard Air Miles,am_show_points,,,,Mobile,,Affichez votre solde de points,See your points balance
+,,Scott Cameron,26 juillet 2018,0.1 Tutoriel,TUTORIAL_IMG,,,,IOS,,tuto_img_fr_%d,tuto_img_en_%d
+,,,,Shared,loading,,,,Mobile,,Chargement,Loading 
+,,Stephen Palko,29 novembre,2.0 Coupon Clip All,coupon_clip_all,,,,Mobile,,Ajouter tous les coupons,Add all coupons
+,,Stephen Palko,29 novembre,2.0 Coupon Clip All,coupon_unclip_all,,,,Mobile,,Retirer tous les coupons,Remove all coupons
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_clipped_coupon,,,,Mobile,x,{{number}} coupons ajoutés à votre carte,{{number}} coupons clipped to your card
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_clipped_coupon,,,,Mobile,,{{number}} coupon ajouté à votre carte,{{number}} coupon clipped to your card
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_available_coupon,,,,Mobile,x,{{number}} coupons sont encore disponibles,{{number}} coupons still available
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_available_coupon,,,,Mobile,,{{number}} coupon sont encore disponible,{{number}} coupon still available
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,card_hint_message,,,,Mobile,,Pivotez votre téléphone pour voir votre carte.,Turn your phone to see your card
+,,Stephen Palko,29 novembre,4.0 Accueil,grocery_shortcut_title,,,,Mobile,,Réalisez votre liste d’épicerie rapidement!,Make your shopping list fast!
+,,Stephen Palko,29 novembre,4.0 Accueil,grocery_shortcut_edittext_hint,,,,Mobile,,Débutez votre liste,Start your list
+,,Stephen Palko,29 novembre,4.0 Accueil,see_all,,,,Mobile,,Voir Tous,See all
+,,Stephen Palko,29 novembre,4.0 Accueil,feature_usual_product_title,,,,Mobile,,Mes essentiels,My essentials
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,voucher_subscription,,,,Mobile,,Recevez vos chèques-récompenses dans votre appli!,Receive rewards in your app
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,voucher_no_rewards,,,,Mobile,,Accumulez un minimum de 500 points pour recevoir un chèque de récompense,Accumulate a minimum of 500 points to receive a reward cheque
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_am_coupon_value,,,,IOS,,Obtenez {{number}}\nAir Miles en primeᴹᴰ,Get {{number}}\nBonus Miles®
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_am_coupon_prefix,,,,Android,,Obtenez,Get
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_am_coupon_suffix,,,,Android,,Air Miles en prime<sup><small><small>MD</small></small></sup>,Bonus Miles®
+,,Stephen Palko,29 novembre,Errors,error_no_card_linked,,,,Mobile,,Veuillez lier votre carte,Please link your card
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_tb_info_pts,,,,Mobile,,125 {{text}} = 20$,125 {{text}} = 20$
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_tb_info_pts_name,,,,Mobile,,Thunder Bucks,Thunder Bucks
+,,Stephen Palko,29 novembre,Forced update,update_optional_title,,,,Mobile,,Nouvelle version disponible!,New version available!
+,,Stephen Palko,29 novembre,Forced update,update_later,,,,Mobile,,Plus tard,Later
+,,Stephen Palko,29 novembre,Forced update,update_optional_accept,,,,Mobile,,Mettre à jour,Update now
+,,Stephen Palko,29 novembre,Forced update,update_optional_desc,,,,Mobile,,Téléchargez la nouvelle version pour profiter de nos nouvelles fonctionnalités!,Download the new version to take advantage of all our new features!
+,,Stephen Palko,29 novembre,5.0 Dashboard,login_am_title,,,,Mobile,,"Voulez-vous consulter votre solde
+AIR MILES?","Want to see your 
+AIR MILES balance?"
+,,Stephen Palko,29 novembre,5.0 Dashboard,login_am_sign_in,,,,Mobile,,Se connecter,Sign in
+,,Stephen Palko,29 novembre,4.0 Accueil,coupon_added,,,,Mobile,,Coupon ajouté,Coupon added
+,,Stephen Palko,29 novembre,4.0 Accueil,offer_added,,,,Mobile,,Offre ajoutée,Offer added
+,,Stephen Palko,29 novembre,4.0 Accueil,usual_added,,,,Mobile,,Essentiel ajoutée,Usual added
+,,Stephen Palko,29 novembre,Notification ,notification_channel_general,,,,Android,,Général,General
+,,Stephen Palko,29 novembre,Notification ,cx_service_notification_title,,,,Android,,Téléchargement des données en cours,Application data download in progress
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_reward_title,,,,Mobile,,Votre récompense,Your reward
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_reward_arrived_title,,,,Mobile,,Votre récompense est arrivée,Your reward is here
+,,Stephen Palko,29 novembre,4.0 Dashboard Carte récompense,dashboard_total_voucher_title,,,,Mobile,,Total de vos récompenses,Your rewards total
+,,Stephen Palko,30 novembre,FAQ,faq_accumulate_points,,,,Mobile,,Comment accumuler des points réguliers?,How are regular points accumulated?
+,,Stephen Palko,30 novembre,FAQ,faq_value_points,,,,Mobile,,Quelle est la valeur des points?,How are the points valued?
+,,Stephen Palko,30 novembre,FAQ,faq_next_reward_time,,,,Mobile,,Comment obtenir une récompense?,How do rewards work?
+,,Stephen Palko,30 novembre,FAQ,faq_subscription,,,,Mobile,,Comment s’abonner aux chèques numériques?,How to subscribe to digital checks?
+,,Stephen Palko,30 novembre,FAQ,faq_change_card,,,,Mobile,,Remplacer ma carte?,Replace my card?
+,,Stephen Palko,30 novembre,FAQ,faq_see_all,,,,Mobile,,Voir toutes,See all
+,,Stephen Palko,30 novembre,Coupon,unclip_action_not_allowed_error,,,,Mobile,,Ce coupon ne peut être retiré.,This coupon cannot be removed.
+,,Stephen Palko,30 novembre,Coupon,featured_coupon_validity_date,,,,Android,,Échangeable jusqu'à jeudi:,Redeemable until Thursday:
+,,Stephen Palko,30 novembre,Coupon,featured_coupon_validity_date,,,,IOS,,Échangeable jusqu'à jeudi: {{text}},Redeemable until Thursday: {{text}}
+,,Stephen Palko,30 novembre,Coupon,featured_coupon_add_offer,,,,Mobile,,Ajoutez l'offre {{text}},Add this offer {{text}}
+,,Stephen Palko,30 novembre,Coupon,featured_coupon_add_offer_date,,,,Mobile,,aujourd'hui seulement!,today only!
+,,Stephen Palko,7 février,Dashboard,gamification_new_user,,,,Mobile,,"Accumulez des points pour être admissible à votre prochaine récompense!
+",Accumulate points to work your way up to your next reward!
+,,Stephen Palko,7 février,Dashboard,gamification_new_user_with_pts,,,,Mobile,,Bravo plus que {{number}} points pour être admissible à votre prochaine récompense!,Great job! Only {{number}} points left until you reach your next reward!
+,,Stephen Palko,6 février,Dashboard,gamification_pts,,,,Mobile,,{{number}} pts,{{number}} pts
+,,Stephen Palko,7 février,Dashboard,gamification_record_pts_title,,,,Mobile,,Votre plus grosse récompense à date : ,Your largest reward so far:
+,,Stephen Palko,6 février,Dashboard,gamification_record_pts_value,,,,Android,,{{text}}pts {{img:metro}} et {{text}} ,{{text}} pts {{img:metro}} and {{text}}
+,,Stephen Palko,6 février,Dashboard,gamification_record_pts_value,,,,IOS,,\U0020et\U0020,\U0020and\U0020
+,,Stephen Palko,6 février,Dashboard,gamification_broken_record_pts_title,,,,Mobile,,"Félicitations, Record dépassé! ",Great job! You beat your record!
+,,Stephen Palko,25 mars,Dashboard,gamification_broken_record_pts_value,,,,Android,,Bravo! Votre record de {{text}} points {{img:metro}} et {{text}} a été battu !,Bravo! Your record {{text}} points {{img:metro}} and {{text}} broken!
+,,Stephen Palko,25 mars,Dashboard,gamification_broken_record_pts_value,,,,IOS,,\U0020a été battu !,\U0020broken!
+,,Stephen Palko,7 février,Dashboard,gamification_first_broken_record_value,,,,Mobile,,Félicitations! Vous êtes admissible à votre première récompense de 4$! Continuez d’accumuler des points pour augmenter votre récompense!,Congratulations! You have just earned your first reward of $4! Continue to accumulate points to increase your reward!
+,,,7 février,Dashboard,gamification_next_goal_pop_up_title,,,,Mobile,,,
+,,Stephen Palko,6 février,Dashboard,gamification_next_goal_pop_up_value,,,,Mobile,,Votre récompense augmente ! Nous avons mis à jour votre prochain objectif!,Your reward is increasing! We have updated your next target!
+,,Thi Phi Phuong Le,6 février,Vouchers,voucher_expire_no_date,,,,Mobile,,Aucune expiration,No expiry
+,,Thi Phi Phuong Le,6 février,Vouchers,voucher_expire_no_date_applicable,,,,Mobile,,Applicable à une facture d’épicerie chez Metro\nAucune expiration,Applicable on your purchases at metro\nNo expiry
+,,Stephen Palko,6 février,FAQ,faq_change_address,,,,Mobile,,Comment faire mon changement d’adresse?,How do I change my address?
+,,Stephen Palko,6 février,Dashboard,gamification_intro_record_value,,,,IOS,,Bravo! Votre record de\U0020,Bravo! Your record\U0020
+,,Thi Phi Phuong Le,20 mars,Store,store_special_schedule_close,,,,Mobile,,Fermé,Closed
+,,Thi Phi Phuong Le,20 mars,Store,store_special_today,,,,Mobile,,Aujourd'hui,Today
+,,Thi Phi Phuong Le,20 mars,Store,store_see_regular_hours,,,,Mobile,,Consulter les heures régulières,Consult the regular hours
+,,Thi Phi Phuong Le,20 mars,Store,store_see_special_hours,,,,Mobile,,Consulter l'horaire spécial,Consult special hours
+,,Thi Phi Phuong Le,25 mars,Store,store_detail_special_week_title,,,,Mobile,,Heures d'ouverture,Opening hours
+,,Thi Phi Phuong Le,20 mars,Store,store_special_hour_closed_home,,,,Mobile,,Fermé aujourd'hui,Closed today
+,,Thi Phi Phuong Le,20 mars,Errors,error_network_server_message,,,,Mobile,,"Vos informations sont indisponibles pour le moment, merci de réessayer plus tard","Your information are unavailable for the moment, please try later"
+,,Thi Phi Phuong Le,20 mars,Dashboard,gamification_broken_record_pts_title_again,,,,Mobile,,"Bravo, continuez d'accumuler des points pour augmenter votre prochaine récompense et votre nouveau record!",Great job! Continue to earn points to increase the value of your next reward check and set a new record!
+,,Agathe Lengaigne,10 juin,Notification ,notification_channel_background_service,,,,Android,,Téléchargement des ressources,Data synchronisation 
+,,Agathe Lengaigne,10 juin,Home,ecomm_section_title,,,,Mobile,,Magasiner sur metro.ca,Shop online on metro.ca
+,,Agathe Lengaigne,10 juin,Coupon,mystery_coupon_validity_date,,,,IOS,,Échangeable jusqu'à merc.: {{text}},Redeemable until wed.: {{text}}
+,,Agathe Lengaigne,10 juin,Coupon,mystery_coupon_validity_date,,,,Android,,Échangeable jusqu'à merc.:,Redeemable until wed.: 
+,,,,Vouchers,error_card_import_pending,,,,Mobile,,Un délai de 7 jours après l'obtention de votre carte est nécessaire pour l'inscription aux chèques numériques,A 7-day delay after obtaining your card is necessary to subscribe to digital reward checks
+,,,,Personal offers,free_quantity_global_amount,,,,Mobile,,Gratuit si vous dépensez {{float:2}} $ ou plus,Free if you buy ${{float:2}} or more
+,,,,Personal offers,free_quantity_format,,,,Mobile,,{{number}} gratuit à l'achat de {{number}},{{number}} free when you buy {{number}}
+,,,,Personal offers,free_quantity_format,,,,Mobile,X,{{number}} gratuits à l'achat de {{number}},{{number}} free when you buy {{number}}
+,,,,Personal offers,quantity_for_price_kilo,,,,Mobile,,{{text}} / kg,{{text}} / kg
+,,,,Personal offers,quantity_for_price_lbs,,,,Mobile,,{{text}} / lb,{{text}} / lb
+,,,,Personal offers,personal_offer_extra_points_mm,,,,IOS,,{{number}} points <img>m</img>,{{number}} <img>m</img> points
+,,,,Personal offers,personal_offer_extra_points_mm,,,,IOS,X,{{number}} points <img>m</img> à l'achat de {{number}},{{number}} <img>m</img> points when you buy {{number}}
+,,,,Personal offers,personal_offer_extra_points_mm,,,,Android,,{{number}} points {{img:metro}},{{number}} {{img:metro}} points
+,,,,Personal offers,personal_offer_extra_points_mm,,,,Android,X,{{number}} points {{img:metro}} à l'achat de {{number}},{{number}} {{img:metro}} points when you buy {{number}}
+,,,,Personal offers,personal_offer_extra_points_am,,,,Mobile,,{{number}} points AIR MILES,{{number}} points AIR MILES
+,,,,Personal offers,personal_offer_extra_points_am,,,,Mobile,X,{{number}} points AIR MILES à l'achat de {{number}},{{number}} points AIR MILES when you buy {{number}}
+,,,,Personal offers,personal_offer_extra_points_tb,,,,Mobile,,{{number}} points Thunder buck,{{number}} points Thunder Buck 
+,,,,Personal offers,personal_offer_extra_points_tb,,,,Mobile,X,{{number}} points Thunder buck à l'achat de {{number}},{{number}} points Thunder Buck when you buy {{number}}

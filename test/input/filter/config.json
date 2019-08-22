@@ -1,0 +1,1 @@
+{"from":"Csv","to":"Android","readPath":"test/input/csv/Filter_test.csv","writePath":"test/output","filter":"Target == \"Android\" || Target == \"Mobile\""}

@@ -1,0 +1,335 @@
+Notes/Commentaires client,Last Review Date,Reviewed by,Section_ID,String_ID,"Page of Word 
+Copy Deck 
+(Maviret ONLY )",Target,Projet,Plural,en,fr
+,11/28/2017,Abbvie Canada Translation , ,app_name,,Android,Maviret,,Maviret,Maviret
+,8/24/2018,, ,app_name,,Android,Dermatology,,Dermatology,Dermatologie
+,8/24/2018,, ,app_name,,Android,Rheumatology,,Rheumatology,Rhumatologie
+,8/24/2018,, ,lang,,Android,All,,en,fr
+,8/24/2018,, ,ok,,Mobile,All,,Ok,OK
+,8/24/2018,,00.01 Introduction user,btn_patient,,Mobile,All,,I am a patient,Je suis un patient.
+,8/24/2018,,00.01 Introduction user,btn_professional,,Mobile,All,,I am a health professional,Je suis un professionnel de la santé.
+,8/24/2018,,00.02 Disclaimer,btn_agree,,Mobile,All,,Access the app,Accéder à l'application
+,8/24/2018,,00.03 Login,btn_connection,,Mobile,All,,Connection,Connexion
+,8/24/2018,,00.03 Login,btn_password_forgotten,,Mobile,All,,Password forgotten,Mot de passe oublié
+,8/24/2018,,00.03 Login,placeholder_email,,Mobile,All,,Email,Courriel
+,8/24/2018,,00.03 Login,placeholder_password,,Mobile,All,,Password,Mot de passe
+,8/24/2018,,00.03 Login,text_login,,Mobile,All,,Check your email inbox for the first connection.,"Pour votre première connexion, vérifiez votre boîte de courriel."
+,8/24/2018,,00.04 Password forgotten,btn_recover_password,,Mobile,All,,Recover my password,Récupérer mon mot de passe
+,8/24/2018,,00.04 Password forgotten,text_password_forgotten,,Mobile,All,,Please enter the email associated with your account. You will receive information on how to recover your password.,Veuillez entrer l'adresse courriel associée à votre compte. Vous recevrez des renseignements pour récupérer votre mot de passe.
+,8/24/2018,,00.05 Change password empty,btn_change_password_confirm,,Mobile,All,,Change my password,Changer mon mot de passe
+,,,01.00 Home,tab_care,,Mobile,Maviret,,Abbvie Care,Abbvie Care
+,8/24/2018,,01.00 Home,tab_content_library,,Mobile,All,,Library,Documents de référence
+,11/28/2017,Abbvie Canada Translation ,01.00 Home,tab_delegates,,Mobile,Maviret,,HCV team,Équipe VHC
+Vérifier contexte,11/28/2017,Abbvie Canada Translation ,01.00 Home,tab_dynamic_monograph,,Mobile,Maviret,,Tx duration,Durée du traitement
+,8/24/2018,,01.00 Home,tab_home,,Mobile,All,,Home,Page d'accueil
+,8/24/2018,,01.00 Home,tab_messages,,Mobile,All,,Messages,Messages
+,8/24/2018,,01.00 Home,btn_log_out,,Mobile,All,,Log out,Fin de session
+,8/24/2018,,01.01 Home Mandate,new_mandate,,Mobile,All,,New mandate for you,Nouvel objectif pour vous
+,8/24/2018,,01.01 Home Survey,new_survey,,Mobile,All,,New survey for you,Nouveau sondage pour vous
+,8/24/2018,,01.02 Home Mandate,current_mandate,,Mobile,All,,See current mandate,Voir l'objectif actuel
+,8/24/2018,,01.02 Home Survey,current_survey,,Mobile,All,,See current survey,Voir le sondage actuel
+,8/24/2018,,01.03 Options,btn_cancel,,Mobile,All,,Cancel,Annuler
+,8/24/2018,,01.03 Options,btn_update_details,,Mobile,All,,Update my details,Mise à jour de mes renseignements
+,8/24/2018,,01.04 Update my details place holder,btn_edit_password,,Mobile,All,,Edit password,Modifier mot de passe
+,1/17/2019,PMac,01.05 Logout Confirmation,logout_abbvie_care,29,Mobile,Maviret,,Are you sure you want to log out from AbbVie Care?,Voulez-vous vraiment mettre fin à votre session AbbVie Care?
+,8/24/2018,,01.05 Logout confirmation,text_logout_confirmation,,Mobile,All,,Are you sure you want to log out?,Voulez-vous vraiment mettre fin à votre session?
+,8/24/2018,,01.06 Edit profile,picture_choice_btn_camera,,Mobile,All,,Take a picture,Prendre une photo
+,8/24/2018,,01.06 Edit profile,picture_choice_btn_file,,Mobile,All,,Choose a picture,Choisir une photo
+,8/24/2018,,01.06 Edit profile,placeholder_postal_code,,Mobile,All,,Postal code,Code postal
+,8/24/2018,,01.07 Change password empty,hint_confirm_password,,Mobile,All,,Confirm new password,Confirmer mot de passe
+,8/24/2018,,01.07 Change password empty,hint_new_password,,Mobile,All,,New password,Nouveau mot de passe
+,8/24/2018,,01.07 Change password empty,hint_old_password,,Mobile,All,,Current password,Mot de passe actuel
+,8/24/2018,,01.07 Change password empty,text_password_edit,,Mobile,All,,"Please enter a password of at least 8 characters, 2 specials characters or uppercase","Entrez un mot de passe de 8 caractères minimum, 2 charactères spéciaux ou majuscules"
+,8/24/2018,,02.00 Mandates,active_participant_title,,Mobile,All,,{{number}} participant,{{number}} participant
+,8/24/2018,,02.00 Mandates,active_participant_title,,Mobile,All,X,{{number}} participants,{{number}} participants
+,8/24/2018,,02.00 Mandates,mandate_notification_btn,,Mobile,All,,Go to assignment,Accéder à la tâche
+,8/24/2018,,02.00 Mandates,mandate_notification_detail,,Mobile,All,,Your assignment starts in 30 minutes.,Votre tâche débutera dans 30 minutes.
+,8/24/2018,,02.00 Mandates,mandate_subtitle,,Mobile,All,,from {{text}} to {{text}},de {{text}} à {{text}}
+,8/24/2018,,02.00 Mandates,mandate_title,,Mobile,All,,Mandates,Objectifs
+,8/24/2018,,02.00A Mandates,assignment_btn,,Mobile,All,,See assignments,Voir les tâches
+,8/24/2018,,02.00A Mandates,survey_btn,,Mobile,All,,See surveys,Voir les sondages
+,8/24/2018,,02.01 Guests' assignment,assignment_complet,,Mobile,All,,Completed,Terminée
+,8/24/2018,,02.01 Guests' Assignment,assignments_title,,Mobile,All,,Assignments,Tâches
+,8/24/2018,,02.01 Guests' assignment,guest_assignment_title,,Mobile,All,,Participants' assignment,Tâche des participants
+,8/24/2018,,02.01 Guests' assignment,no_selection,,Mobile,All,,No selection,Aucune sélection
+,8/24/2018,,02.01 Guests' assignment,follow_all_assignments,,Mobile,All,,Follow all assignments,Suivre toutes les tâches
+,8/24/2018,,02.01 Guests' survey,follow_all_surveys,,Mobile,All,,Follow all surveys,Suivre tous les sondages
+,8/24/2018,,02.01 Guests' survey,guest_survey_title,,Mobile,All,,Participants' survey,Sondages des participants
+,8/24/2018,,02.01 Guests' survey,my_survey_title,,Mobile,All,,My survey,Mon sondage
+,8/24/2018,,02.01 Guests' survey,surveys_title,,Mobile,All,,Surveys,Sondages
+,8/24/2018,,02.02 Assignment,attachment_btn,,Mobile,All,,See attachment,Voir ci-joint
+,8/24/2018,,02.02 Assignment,comment_text,,Mobile,All,,Write your comment,Écrire votre commentaire.
+,8/24/2018,,02.02 Assignment,comment_text_first,,Mobile,All,,Be the first to comment,Soyez le premier à faire un commentaire.
+,8/24/2018,,02.02 Assignment,comment_title,,Mobile,All,,Comments,Commentaires
+,8/24/2018,,02.02 Assignment,select_answer,,Mobile,All,,Select an answer,Choisir une réponse
+,8/24/2018,,02.02 Assignment,write_answer,,Mobile,All,,Write your answer,Écrire votre réponse
+,8/24/2018,,"02.02 Assignment
+",assignment_subtitle,,Mobile,All,,Completed {{text}},Terminée {{text}}
+,8/24/2018,,02.02 Survey,follow_this_survey,,Mobile,All,,Follow this survey,Suivre ce sondage
+,8/24/2018,,02.02A Assignment,your_local_time,,Mobile,All,,Your local time,Votre heure locale
+,8/24/2018,,02.02A Assignment,follow_this_assignment,,Mobile,All,,Follow this assignment,Suivre cette tâche
+,8/24/2018,,02.02B Assignment scroll Network error,error_no_network,,Mobile,All,,You have no internet connectivity. Please check your connection and retry.,Vous n'avez pas de connexion Internet. Vérifiez votre connexion et réessayez.
+,8/24/2018,,02.04 Assignment Comment,see_detail_replies,,Mobile,All,,See detail and replies,Voir le détail et les réponses
+,8/24/2018,,02.06 Assignment Reply,reply_first_hint,,Mobile,All,,Be the first to reply,Soyez le premier à répondre
+,8/24/2018,,02.06 Reply,replies_title,,Mobile,All,,Replies,Réponses
+,8/24/2018,,02.06 Reply,reply_hint,,Mobile,All,,Write your reply...,Écrire votre réponse…
+,8/24/2018,,02.07A Assignment replies server error,error_generic,,Mobile,All,,An error has occurred. Retry later to load the content.,Une erreur s'est produite. Réessayez de charger le contenu plus tard.
+,8/24/2018,,02.08 My assignment not answered yet,complete_assignment_btn,,Mobile,All,,Complete assignment,Terminer la tâche
+,8/24/2018,,02.08 My assignment not answered yet,my_assignment_subtitle_incomplete,,Mobile,All,,Not completed yet,Pas encore terminée
+,8/24/2018,,02.08 My assignment not answered yet,my_assignment_title,,Mobile,All,,My assignment,Ma tâche
+,8/24/2018,,02.08 My survey not answered yet,complete_survey_btn,,Mobile,All,,Complete survey,Terminer le sondage
+,8/24/2018,,02.09 Picker,yes_no_picker_title,,Mobile,All,,Your answer…,Votre réponse…
+,8/24/2018,,02.13 Notification mandate,mandate_notification_app_open_detail,,Mobile,All,,New mandate received from AbbVie.,Nouvel objectif reçu d'AbbVie
+,8/24/2018,,02.13 Notification mandate,survey_notification_app_open_detail,,Mobile,All,,New survey received from AbbVie.,Nouveau sondage reçu d'AbbVie
+,8/24/2018,,02.14 Confirmation mandate,send_assignment,,Mobile,All,,Are you sure you want to complete and send your assignment?,Voulez-vous vraiment terminer et envoyer votre tâche?
+,8/24/2018,,02.14 Confirmation Quit Comment,quit_comment,,Mobile,All,,Are you sure you want to cancel your comment?,Êtes-vous sûr de vouloir annuler votre commentaire?
+,8/24/2018,,02.14 Confirmation Quit Reply,quit_reply,,Mobile,All,,Are you sure you want to cancel your reply?,Êtes-vous sûr de vouloir annuler votre réponse?
+,8/24/2018,,02.15 Notification comment survey,survey_comment_notification_btn,,Mobile,All,,Go to survey,Aller au sondage
+,8/24/2018,,02.15 Notification comment survey,survey_complete_notification_btn,,Mobile,All,,Go to survey,Aller au sondage
+,8/24/2018,,02.15 Notification comment survey,survey_complete_notification_detail,,Mobile,All,,The following survey:,Le sondage :
+,8/24/2018,,02.15 Notification completed,mandate_complete_notification_btn,,Mobile,All,,Go to assignment,Aller à la tâche
+,8/24/2018,,02.15 Notification completed,mandate_complete_notification_detail,,Mobile,All,,The following assignment:,La tâche :
+,8/24/2018,,02.15 Notification completed,notification_assignment_completed_title,,Mobile,All,,has been completed by:,a été effectuée par :
+,8/24/2018,,02.16 My assignment answered from notification,follow_my_assignment,,Mobile,All,,Follow my assignment,Suivre ma tâche
+,8/24/2018,,02.17 Notification comment,mandate_comment_notification_btn,,Mobile,All,,Go to assignment,Aller à la tâche
+,8/24/2018,,02.17 Notification comment,mandate_comment_notification_detail,,Mobile,All,,A new comment:,Un nouveau commentaire :
+,8/24/2018,,02.17 Notification comment,notification_comment_added_title,,Mobile,All,,has been added to:,a été ajouté à :
+,8/24/2018,,02.18 My survey answered from notification,follow_my_survey,,Mobile,All,,Follow my survey,Suivre mon sondage
+,8/24/2018,,02.18 Notification reply,notification_detail_reply_survey_title,,Mobile,All,,to the following survey:,au sondage suivant :
+,8/24/2018,,02.20 Notification reply,mandate_reply_notification_btn,,Mobile,All,,Go to replies,Aller dans les réponses aux commentaires
+,8/24/2018,,02.20 Notification reply,mandate_reply_notification_detail,,Mobile,All,,A new reply:,Une nouvelle réponse :
+,8/24/2018,,02.20 Notification reply,notification_detail_reply_assignment_title,,Mobile,All,,to the following assignment:,à la tâche suivante :
+,8/24/2018,,02.20 Notification reply,notification_detail_reply_comment_title,,Mobile,All,,has been added to this comment:,a été ajoutée au commentaire :
+,8/24/2018,,03.00 Content library,go_content_library,,Mobile,All,,Go to content library,Aller à Documents de référence
+,8/24/2018,,03.00 Content library,librarie_title,,Mobile,All,,Content library,Documents de référence
+,8/24/2018,,03.00 Content library,text_content_library_empty,,Mobile,All,,No content added yet. You will be notified when there will be new documents and updates.,Aucun document n'a été ajouté. Un avis vous sera envoyé quand il y aura de nouveaux documents ou des mises à jour.
+,8/24/2018,,03.04 Notification content library,text_content_library_empty_notification,,Mobile,All,,New documents were added to the content library section.,De nouveaux documents ont été ajoutés aux documents de référence
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,duration_title,,Mobile,Maviret,,Tx duration recommendations,Recommandations relatives à la durée du traitement
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,monography_intro,,IOS,Maviret,,"Treatment durations depend on HCV genotype, cirrhosis status, and treatment history. Screen all patients for evidence of current or prior HBV infection by measuring HbsAg and anti-HBc before initiating treatment for HCV with MAVIRET.<br/><br/>The recommended oral dose of MAVIRET is three fixed-dose combination glecaprevir/pibrentasvir 100/40 mg tablets administered once daily with food without regard to fat or calorie content. No dose adjustment is possible. Please consult the Product Monograph for complete dosing information.<br/><br/>Please answer the following questions regarding recommended MAVIRET treatment duration for patients who are HCV mono-infected and HCV/HIV-1 co-infected with compensated liver disease (with or without cirrhosis) and with or without renal impairment including patients receiving dialysis.","La durée du traitement dépend du génotype du VHC, de la présence ou de l’absence de cirrhose et des antécédents de traitement.
+Il faut soumettre tous les patients au dépistage d’infections actuelles ou antérieures par le VHB en mesurant l’AgHBs et les anti-HBc avant de commencer le traitement contre le VHC par MAVIRET.<br/><br/>La posologie recommandée de MAVIRET est de trois comprimés de l'association à dose fixe de 100 mg de glécaprévir et de 40 mg de pibrentasvir administrés une fois par jour avec de la nourriture sans égard à sa teneur en matières grasses ou en calories. Aucun ajustement posologique n'est possible. Veuillez consulter la monographie de MAVIRET pour obtenir des renseignements complets sur la posologie.<br/><br/>Veuillez répondre aux questions ci-dessous afin de déterminer la durée du traitement par MAVIRET chez les patients infectés uniquement par le VHC ou co-infectés par le VHC et le VIH-1, atteints d'une hépatopathie compensée (avec ou sans cirrhose) et présentant ou non une insuffisance rénale, y compris les patients sous dialyse."
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,monography_intro,,Android,Maviret,,"Treatment durations depend on HCV genotype, cirrhosis status, and treatment history. Screen all patients for evidence of current or prior HBV infection by measuring HbsAg and anti-HBc before initiating treatment for HCV with MAVIRET.\n\nThe recommended oral dose of MAVIRET is three fixed-dose combination glecaprevir/pibrentasvir 100/40 mg tablets administered once daily with food without regard to fat or calorie content. No dose adjustment is possible. Please consult the Product Monograph for complete dosing information.\n\nPlease answer the following questions regarding recommended MAVIRET treatment duration for patients who are HCV mono-infected and HCV/HIV-1 co-infected with compensated liver disease (with or without cirrhosis) and with or without renal impairment including patients receiving dialysis.","La durée du traitement dépend du génotype du VHC, de la présence ou de l’absence de cirrhose et des antécédents de traitement. Il faut soumettre tous les patients au dépistage d’infections actuelles ou antérieures par le VHB en mesurant l’AgHBs et les anti-HBc avant de commencer le traitement contre le VHC par MAVIRET.\n\nLa posologie recommandée de MAVIRET est de trois comprimés de l'association à dose fixe de 100 mg de glécaprévir et de 40 mg de pibrentasvir administrés une fois par jour avec de la nourriture sans égard à sa teneur en matières grasses ou en calories. Aucun ajustement posologique n'est possible. Veuillez consulter la monographie de MAVIRET pour obtenir des renseignements complets sur la posologie.\n\nVeuillez répondre aux questions ci-dessous afin de déterminer la durée du traitement par MAVIRET chez les patients infectés uniquement par le VHC ou co-infectés par le VHC et le VIH-1, atteints d'une hépatopathie compensée (avec ou sans cirrhose) et présentant ou non une insuffisance rénale, y compris les patients sous dialyse."
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,monography_legend,,IOS,Maviret,,"<b class=\""orange\"">*</b>Experienced with regimens containing interferon, peginterferon, ribavirin, and/or sofosbuvir (PR, SOF + PR, SOF + R), but no prior treatment experience with an HCV NS3/4A PI or NS5A inhibitor.<br/><br/><b class=\""orange\"">†</b>Experienced with regimens containing SMV + SOF or SMV + PR or BOC + PR or TPV + PR.<br/><br/><b class=\""orange\"">‡</b>Experienced with regimens containing DCV + SOF, DCV + PR, or LDV + SOF.<br/><br/><b class=\""orange\"">PR</b> = peginterferon/ribavirin;<br/><br/><b class=\""orange\"">PRS</b> = peginterferon/ribavirin + sofosbuvir;<br/><br/><b class=\""orange\"">SMV</b> = simeprevir;<br/><br/><b class=\""orange\"">TRV</b> = telapevir;<br/><br/><b class=\""orange\"">BOC</b> = boceprevir;<br/><br/><b class=\""orange\"">DCV</b> = daclatasvir;<br/><br/><b class=\""orange\"">LDV</b> = ledipasvir;<br/><br/><b class=\""orange\"">SOF</b> = sofosbuvir.","<b class=\""orange\"">*</b> Patients ayant déjà reçu un traitement contenant un interféron, un interféron pégylé, la ribavirine et (ou) le sofosbuvir (PR, SOF + PR, SOF + R), mais n'ayant jamais été traités par un inhibiteur de la protéase NS3/4A ni un inhibiteur de la protéine NS5A du VHC.<br/><br/><b class=\""orange\"">†</b> Patients ayant déjà reçu un traitement contenant SMV + SOF ou SMV + PR ou BOC + PR ou TPV + PR.<br/><br/><b class=\""orange\"">‡</b> Patients ayant déjà reçu un traitement contenant DCV + SOF, DCV + PR ou LDV + SOF.<br/><br/><b class=\""orange\"">PR</b> = interféron pégylé/ribavirine;<br/><br/><b class=\""orange\"">PRS</b> = interféron pégylé/ribavirine + sofosbuvir;<br/><br/><b class=\""orange\"">SMV</b> = siméprévir;<br/><br/><b class=\""orange\"">TRV</b> = télaprévir;<br/><br/><b class=\""orange\"">BOC</b> = bocéprévir;<br/><br/><b class=\""orange\"">DCV</b> = daclatasvir;<br/><br/><b class=\""orange\"">LDV</b> = lédipasvir;<br/><br/><b class=\""orange\"">SOF</b> = sofosbuvir."
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,monography_legend,,Android,Maviret,,"<b><font color=""orange_80"">*</font></b> Experienced with regimens containing interferon, peginterferon, ribavirin, and/or sofosbuvir (PR, SOF + PR, SOF + R), but no prior treatment experience with an HCV NS3/4A PI or NS5A inhibitor.\n\n<b><font color=""orange_80"">†</font></b> Experienced with regimens containing SMV + SOF or SMV + PR or BOC + PR or TPV + PR.\n\n<b><font color=""orange_80"">‡</font></b> Experienced with regimens containing DCV + SOF, DCV + PR, or LDV + SOF.\n\n<b><font color=""orange_80"">PR</font></b> = peginterferon/ribavirin;\n\n<b><font color=""orange_80"">PRS</font></b> = peginterferon/ribavirin + sofosbuvir;\n\n<b><font color=""orange_80"">SMV</font></b> = simeprevir;\n\n<b><font color=""orange_80"">TRV</font></b> = telapevir;\n\n<b><font color=""orange_80"">BOC</font></b> = boceprevir;\n\n<b><font color=""orange_80"">DCV</font></b> = daclatasvir;\n\n<b><font color=""orange_80"">LDV</font></b> = ledipasvir;\n\n<b><font color=""orange_80"">SOF</font></b> = sofosbuvir.","<b><font color=""orange_80"">*</font></b> Patients ayant déjà reçu un traitement contenant un interféron, un interféron pégylé, la ribavirine et (ou) le sofosbuvir (PR, SOF + PR, SOF + R), mais n'ayant jamais été traités par un inhibiteur de la protéase NS3/4A ni un inhibiteur de la protéine NS5A du VHC.\n\n<b><font color=""orange_80"">†</font></b> Patients ayant déjà reçu un traitement contenant SMV + SOF ou SMV + PR ou BOC + PR ou TPV + PR.\n\n<b><font color=""orange_80"">‡</font></b> Patients ayant déjà reçu un traitement contenant DCV + SOF, DCV + PR ou LDV + SOF.\n\n<b><font color=""orange_80"">PR</font></b> = interféron pégylé/ribavirine;\n\n<b><font color=""orange_80"">PRS</font></b> = interféron pégylé/ribavirine + sofosbuvir;\n\n<b><font color=""orange_80"">SMV</font></b> = siméprévir;\n\n<b><font color=""orange_80"">TRV</font></b> = télaprévir;\n\n<b><font color=""orange_80"">BOC</font></b> = bocéprévir;\n\n<b><font color=""orange_80"">DCV</font></b> = daclatasvir;\n\n<b><font color=""orange_80"">LDV</font></b> = lédipasvir;\n\n<b><font color=""orange_80"">SOF</font></b> = sofosbuvir."
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,start_duration_btn,,Mobile,Maviret,,Start Tx duration recommendations,Commencer à charger les recommandations relatives à la durée du traitement
+,11/28/2017,Abbvie Canada Translation ,04.00 Duration recommendations,unknown_abbreviation,,Mobile,Maviret,,Unknown abbreviation or sign?,Abréviation ou signe inconnu?
+,8/24/2018,,04.00 Duration recommendations,yes,,Mobile,All,,Yes,Oui
+,11/28/2017,Abbvie Canada Translation ,04.01A Duration recommendations question 1,monography_question_1,,Mobile,Maviret,,Is your patient treatment-naïve?,Est-ce le premier traitement contre le VHC que reçoit votre patient?
+,11/28/2017,Abbvie Canada Translation ,04.01B Duration recommendations question 2,monography_question_2,,Mobile,Maviret,,Does your patient have cirrhosis?,Votre patient présente-t-il une cirrhose?
+,11/28/2017,Abbvie Canada Translation ,04.01B Duration recommendations question 2,monography_question_4,,Mobile,Maviret,,Does your patient have cirrhosis?,Votre patient présente-t-il une cirrhose?
+,11/28/2017,Abbvie Canada Translation ,04.01C Duration recommendations question 5,monography_question_5,,Mobile,Maviret,,Is your patient infected with Genotype 1 and has a treatment history of NS3/4A PI† (NS5A inhibitor-naïve)?,Votre patient est-il infecté par le VHC de génotype 1 et a-t-il déjà reçu un inhibiteur de la protéase NS3/4A† (jamais traité par un inhibiteur de la protéine NS5A)?
+,11/28/2017,Abbvie Canada Translation ,04.01D Duration recommendations question 3,monography_question_3,,Mobile,Maviret,,"Is your treatment-experienced patient infected with genotype 1, 2, 4-6 and has a treatment history of peginterferon/ribavirin + sofosbuvir (PRS)?*","Votre patient, qui n'en est pas à son premier traitement, est-il infecté par le VHC de génotype 1, 2, 4-6 et a-t-il déjà reçu une association d'interféron pégylé/ribavirine + sofosbuvir (PRS)*?"
+,11/28/2017,Abbvie Canada Translation ,04.01D Duration recommendations question 6,monography_question_6,,Mobile,Maviret,,Is your patient infected with Genotype 1 and has a treatment history of NS5A‡ (NS3/4A inhibitor-naïve) or infected with Genotype 3 with a PRS* treatment history?,Votre patient est-il infecté par le VHC de génotype 1 et a-t-il déjà reçu un inhibiteur de la protéine NS5A‡ (jamais traité par un inhibiteur de la protéase NS3/4A) ou est-il infecté par le VHC de génotype 3 et a-t-il déjà reçu une association PRS*?
+,11/28/2017,Abbvie Canada Translation ,"04.02 Recommended duration
+",recommended_duration_edit_btn,,Mobile,Maviret,,Edit start date,Modifier la date de début du traitement
+,11/28/2017,Abbvie Canada Translation ,"04.02 Recommended duration
+",recommended_duration_end,,Mobile,Maviret,,Ending,Fin de traitement
+,11/28/2017,Abbvie Canada Translation ,"04.02 Recommended duration
+",recommended_duration_start,,Mobile,Maviret,,Starting,Début de traitement
+,11/28/2017,Abbvie Canada Translation ,"04.02 Recommended duration
+",recommended_duration_title,,Mobile,Maviret,,Recommended Tx duration,Durée recommandée du traitement
+,11/28/2017,Abbvie Canada Translation ,04.02 Recommended duration 8 weeks,blood_test_duration,,Mobile,Maviret,,Suggested date for blood test (HCV RNA) to occur 12 weeks after cessation of MAVIRET treatment.,Prise de sang suggérée
+,11/28/2017,Abbvie Canada Translation ,04.03 Treatment start date,confirm,,Mobile,Maviret,,Confirm,Confirmer
+,11/28/2017,Abbvie Canada Translation ,04.03 Treatment start date,treatment_date_title,,Mobile,Maviret,,Treatment start date,Date de début du traitement
+,8/24/2018,,04.03 Treatment start date,treatment_menu_item,,Android,All,,Confirm,Confirmer
+,11/28/2017,Abbvie Canada Translation ,04.04 Recommended duration,recommended_duration_product_consultation,,Mobile,Maviret,,Please consult the Product Monograph for complete dosing information.,Veuillez consulter la monographie de MAVIRET pour obtenir des renseignements complets sur la posologie et l'administration.
+,8/24/2018,,05.00 Message,message_notification_detail,,Mobile,All,,New message received from AbbVie.,Nouveau message reçu d'AbbVie.
+,8/24/2018,,05.00 Messages,message_empty_detail,,Mobile,All,,No messages received yet. You will be notified when new messages arrive.,Aucun message n'a été reçu. Un avis vous sera envoyé dès réception d'un nouveau message.
+,8/24/2018,,05.00 Messages,message_notification_btn,,Mobile,All,,Go to messages,Accéder aux messages
+,8/24/2018,,05.00 Messages,messages_title,,Mobile,All,,Messages,Messages
+,8/24/2018,,05.03 Messages,answer_here,,Mobile,All,,Answer here,Répondre ici
+,8/24/2018,,05.03 Messages,answer_message,,Mobile,All,,Answer message,Répondre au message
+,8/24/2018,,05.03 Messages,empty_text_message_error,,Mobile,All,,You need to enter text in order to send your message.,Il faut entrer du texte pour envoyer votre message.
+,8/24/2018,,05.03 Messages,message_answer_success,,Mobile,All,,Message answered with success,Réponse envoyée avec succès
+,8/24/2018,,05.03 Messages,message_choice_placeholder,,Mobile,All,,Choose answer,Choisir une réponse
+,8/24/2018,,05.03 Messages,message_status_incomplete,,Mobile,All,,Not completed yet,Pas encore terminé
+,8/24/2018,,05.04 Messages answer,message_response_hint,,Mobile,All,,Your answer...,Votre réponse…
+,8/24/2018,,05.06 Messages,menu_delete_title,,Android,All,,Delete,Supprimer
+,8/24/2018,,05.07 Confirmation mandate,delete_message_confirmation,,Mobile,All,,Are you sure you want to delete this message?,Êtes-vous sûr de vouloir supprimer ce message?
+,11/28/2017,Abbvie Canada Translation ,06.00 Delegates,delegates_titles,,Mobile,Maviret,,HCV team,Équipe VHC
+,8/24/2018,,06.00 Delegates,delegates_titles,,Mobile,Dermatology,,Derm team,Équipe Dermatologie
+,8/24/2018,,06.00 Delegates,delegates_titles,,Mobile,Rheumatology,,Our Team,Notre équipe
+,8/24/2018,,07.02 Action error,error_my_assignment_incomplete,,Mobile,All,,You need to answer all the questions in order to complete the assignment.,Il faut répondre à toutes les questions pour terminer la tâche.
+,8/24/2018,,07.03 TextError,error_invalid_email,,Mobile,All,,Enter a valid email,Entrez une adresse courriel valide.
+,8/24/2018,,07.04 Action error 2,error_fill_login,,Mobile,All,,You need to fill every textfield to log in.,Vous devez remplir toutes les zones de texte pour ouvrir une session.
+,8/24/2018,,07.06 Action error 4,error_general,,Mobile,All,,An error occurred. Please try again later.,Une erreur s'est produite. Veuillez réessayer plus tard.
+,8/24/2018,,08.00 Success sending email,email_sent_success,,Mobile,All,,Email sent. Check your email inbox.,Courriel envoyé. Vérifiez votre boîte de réception.
+,8/24/2018,,08.01 Successful update,account_update_success,,Mobile,All,,Your profile has been successfully updated,Votre profil a été mis à jour avec succès.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.00A Ecran mot de passe requis,btn_access_care,"23, 24",Mobile,Maviret,,Access Abbvie Care,Access Abbvie Care
+18-0153-2 HCV 1220cxe (used for column F),16-janv.-19,Peter Mac.,09.00A Ecran mot de passe requis,intro_abbvie_care,"23, 24",Mobile,Maviret,,"To ensure confidentiality, please enter your password to access the AbbVie Care section where you will have access to the status of your patient enrolled in the Support Program.","To insure confidentiality, please enter your password to access the AbbVie Care section where you will have access to your AbbVie Care patient list."
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.00C Ecran mot de passe requis Error TL,error_care_login,TBD,Mobile,Maviret,,Your password is invalid,Votre mot de passe est invalide.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,average_explanation,"30, 31",Mobile,Maviret,,between enrollment and treatment start,between enrollment and treatment start
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMAc,09.01 Dashboard,average_of,"30, 31",Mobile,Maviret,,Average of ,Average of
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,enroll_patient,36,Mobile,Maviret,,Enroll a new patient,Enroll a new patient
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,patient_total,"30, 31",Mobile,Maviret,,patient,patient
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,patient_total,"30, 31",Mobile,Maviret,x,patients,patients
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,search_patient,28,Mobile,Maviret,,Search for a patient,Search patient
+,17-janv.-19,PMac,09.01 Dashboard,total_day,"30, 31",Mobile,Maviret,,{{number}} day,{{number}} day
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac, ,total_day,"30,31",Mobile,Maviret,x,{{number}} days,{{number}} days
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,total_professionnal,"30, 31",Mobile,Maviret,,{{number}} health professional,{{number}} health professional
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.01 Dashboard,total_professionnal,"30, 31",Mobile,Maviret,x,{{number}} health professionals,{{number}} health professionals
+Copy and Excel do not match,17-janv.-19,PMac,09.02 Patient List,updated_on,32,Mobile,Maviret,,Updated on {{text}},Updated on {{text}}
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,enroll_form_content,TBD,Mobile,Maviret,,Fill the patient form and send it. It could take days before your patient appears in your AbbVie Care patient list.,Fill the patient form and send it. It could take days before your patient appears in your AbbVie Care patient list.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,enroll_form_title,36,Mobile,Maviret,,Enroll a new patient,Enroll a new patient
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,insurance_form_group_number,"39, 40",Mobile,Maviret,,Group number,Numéro de contrat/d’assurance collective
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,insurance_form_holder_birthdate,"39, 40",Mobile,Maviret,,Policy holder date of birth,Date de naissance du titulaire de la police
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,insurance_form_holder_name,"39, 40",Mobile,Maviret,,Policy holder,Titulaire de la police
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,insurance_form_member_number,"39, 40",Mobile,Maviret,,Member / Certificate number,Numéro de membre/certificat
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,insurance_form_name,"39, 40",Mobile,Maviret,,Name of insurance company,Nom de la compagnie d’assurance
+copy revised,17-janv.-19,PMac,09.03 Add a patient form,insurance_form_title,"39, 40",Mobile,Maviret,,Private insurance information,Renseignements sur le régime d’assurance privé du patient (s’ils sont connus)
+Copy revised,17-janv.-19,PMac,09.03 Add a patient form,maviret_form_acknowledge,"44, 49, 51",Mobile,Maviret,,I hereby acknowledge that I am the patient’s attending physician. I authorize the AbbVie Care Program to be my designated agent to forward this prescription by fax or other mode of delivery to the pharmacy chosen by the above named patient. This prescription represents the original prescription drug order. The patient’s chosen pharmacy is the only intended recipient.,"Je certifie par la présente être le médecin traitant de ce patient. J’autorise le programme AbbVie Care à être mon agent désigné pour la transmission de cette ordonnance, par télécopie ou par tout autre moyen, à la pharmacie choisie par le patient nommé ci-dessus. Cette ordonnance représente l’ordonnance originale. La pharmacie choisie par le patient en est l’unique destinataire et il n’y en a pas d’autres."
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_consent_content,"45, 49, 51",Mobile,Maviret,,I acknowledge that I have read the AbbVie Care Consent Information and Disclosure,Je certifie avoir lu l’autorisation de divulgation des renseignements personnels du patient d’AbbVie Care.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_consent_title,"45, 46, 49, 51",Mobile,Maviret,,Consent Information and Patient Disclosure,Autorisation de divulgation des renseignements personnels du patient
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_date,N/A,Mobile,Maviret,,Date,Date
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_dosing,"44, 49, 51",Mobile,Maviret,,Maviret Dosing,Posologie de MAVIRET
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_dosing_label,"44, 49, 51",Mobile,Maviret,,"1 blister (3 pills, once a day) with food*\n*Tablets must be swallowed whole with food: do not chew, crush, or break the tablets","1 plaquette alvéolée (3 comprimés, une fois par jour) avec de la nourriture*\n* Les comprimés doivent être avalés entiers, avec de la nourriture. Ils ne doivent pas être pas être croqués, brisés en morceaux, ni broyés."
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_license,"44, 49, 51",Mobile,Maviret,,Licence #,Nº de permis
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_patient_sign,"45, 49",Mobile,Maviret,,Add patient signature,Ajouter la signature du patient
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_physician_sign,"44, 49, 50, ",Mobile,Maviret,,Add physician signature,Ajouter la signature du médecin
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_form_send,"45, 49, 51",Mobile,Maviret,,Send enrollment form,Envoyer le formulaire d'inscription
+This line is not in copy,17-janv.-19,PMac,09.03 Add a patient form,maviret_form_title,41 (see Maviret Enrollment form),Mobile,Maviret,,Maviret (gecaprevir/pibrentasvir),Maviret (gecaprevir/pibrentasvir)
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,medical_form_child_phuga,41 (see Maviret Enrollment form),Mobile,Maviret,,Child-Pugh A,Classe A de Child-Pugh
+This line is not in copy,17-janv.-19,PMac,09.03 Add a patient form,medical_form_cirrhosis,41 (see Maviret Enrollment form),Mobile,Maviret,,Cirrhosis,Cirrhose
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,medical_form_fibrosis,41 (see Maviret Enrollment form),Mobile,Maviret,,Fibrosis Score,Score de fibrose
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,medical_form_fibrosis_placeholder,41 (see Maviret Enrollment form),Mobile,Maviret,,Select score,Choisir le score
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,medical_form_genotype,41 (see Maviret Enrollment form),Mobile,Maviret,,Genotype (if known),Génotype (s’il est connu)
+Copy revised,17-janv.-19,PMac,09.03 Add a patient form,medical_form_note,41 (see Maviret Enrollment form),Mobile,Maviret,,Note,Remarques
+Copy revised,17-janv.-19,PMac,09.03 Add a patient form,medical_form_note_hint,41,Mobile,Maviret,,"Please include other relevant information including previous treatment history, intolerance to any medication, etc.","Veuillez indiquer tout autre renseignement pertinent, y compris les
+antécédents de traitement, l’intolérance à des médicaments, etc."
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,medical_form_title,41,Mobile,Maviret,,Medical Information,Renseignements médicaux
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,next_btn_label,"38, 39, 40, 41",Mobile,Maviret,,Next,Next
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_address,"38, 42",Mobile,Maviret,,Address,Adresse
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_best_time_call,38 (see Maviret Enrollment form),Mobile,Maviret,,Best time to call,Moment idéal pour appeler
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_birth_date,38 (see Maviret Enrollment form),Mobile,Maviret,,Date of birth,Date de naissance
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_birth_date_hint,38 (see Maviret Enrollment form),Mobile,Maviret,,(DD/MM/YYYY),(JJ/MM/AAAA)
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_call_pref,38 (see Maviret Enrollment form),Mobile,Maviret,,Call preference,Appeler de préférence
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_call_pref_placeholder,38 (see Maviret Enrollment form),Mobile,Maviret,,Select preference,Choisir la préférence
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_call_time_placeholder,38 (see Maviret Enrollment form),Mobile,Maviret,,Select period,Choisir le moment
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_city,38 (see Maviret Enrollment form),Mobile,Maviret,,City,Ville
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_confidential_note,38 (see Maviret Enrollment form),Mobile,Maviret,,Confidentiality Note,Note relative à la confidentialité
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_email,38 (see Maviret Enrollment form),Mobile,Maviret,,Email,Courriel
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_first_name,38 (see Maviret Enrollment form),Mobile,Maviret,,First Name,Prénom
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_gender_placeholder,38 (see Maviret Enrollment form),Mobile,Maviret,,Gender,Choisir le sexe
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_lang_pref,38 (see Maviret Enrollment form),Mobile,Maviret,,Language Preference,Langue de préférence
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_language_placeholder,38 (see Maviret Enrollment form),Mobile,Maviret,,Select preference,Choisir la préférence
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_last_name,38 (see Maviret Enrollment form),Mobile,Maviret,,Last Name,Nom de famille
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_message_leave,38 (see Maviret Enrollment form),Mobile,Maviret,,Leave Message,Laisser un message
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_phone_home,38 (see Maviret Enrollment form),Mobile,Maviret,,Home Telephone,Téléphone (maison)
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_phone_other,38 (see Maviret Enrollment form),Mobile,Maviret,,Other Telephone,Téléphone (autre)
+revised copy,17-janv.-19,PMac,09.03 Add a patient form,patient_form_postal_code,38 (see Maviret Enrollment form),Mobile,Maviret,,Postal Code,Code postal
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_province,38 (see Maviret Enrollment form),Mobile,Maviret,,Province,Province
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_sex,38 (see Maviret Enrollment form),Mobile,Maviret,,Gender,Sexe
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_state_placeholder,38 (see Maviret Enrollment form),Mobile,Maviret,,Select Province,Choisir la province
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,patient_form_title,38 (see Maviret Enrollment form),Mobile,Maviret,,Patient Information,Renseignements sur le patient
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,patient_form_weight,,Mobile,Maviret,,Weight,Poids
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,physician_form_fax,42 (see Maviret Enrollment form),Mobile,Maviret,,Fax,Télécopieur
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,physician_form_hospital_name,42 (see Maviret Enrollment form),Mobile,Maviret,,Hospital / Clinic name,Nom de l’hôpital/de la clinique
+Copy revised,17-janv.-19,PMac,09.03 Add a patient form,physician_form_name,42 (see Maviret Enrollment form),Mobile,Maviret,,Physician name,Nom du médecin
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,physician_form_nurse_name,42 (see Maviret Enrollment form),Mobile,Maviret,,Nurse / Coordinator's name,Nom de l’infirmière/du coordonnateur
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,physician_form_title,42 (see Maviret Enrollment form),Mobile,Maviret,,Prescribing Physician Information,Renseignements à titre de médecin prescripteur
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,or,,Mobile,Maviret,,or,or
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,weeks,,Mobile,Maviret,,weeks,weeks
+revised copy,17-janv.-19,PMac,09.03 Add a patient picture,add_patient_form,36,Mobile,Maviret,,Fill out the enrollment form,Remplir le formulaire d'inscription
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient picture,add_patient_picture,36,Mobile,Maviret,,Take a picture of the enrollment form,Take a picture of the enrollment form
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient picture,cancel,36,Mobile,Maviret,,Cancel,Cancel
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient picture,enroll_new_patient,37,Mobile,Maviret,,Enroll a new patient,Enroll a new patient
+copy revised,17-janv.-19,PMac,09.03 Add a patient picture,picture_form_main_message,37,Mobile,Maviret,,Take a picture of the patient form and send it. It could take a maximum of 2 days before the patient appears in your AbbVie Care patient list.,Take a picture of the patient form and send it. It could take days before the patient appears in your AbbVie Care patient list.
+copy revised,17-janv.-19,PMac,09.03 Add a patient picture,picture_form_message,37,Mobile,Maviret,,Your picture will appear above after you take it,Your picture will appear above once you take it
+copy revised,17-janv.-19,PMac,09.03 Add a patient picture,retake_picture,37,Mobile,Maviret,,Retake picture,Retake a picture
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient picture,send_document,37,Mobile,Maviret,,Send document,Send document
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient picture,take_picture,37,Mobile,Maviret,,Take a picture,Take a picture
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.04 Notification,care_notification_title,27,Mobile,Maviret,,Notifications,Notifications
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.06 Signature,sign_physician_label,50,Mobile,Maviret,,The physician needs to sign with his finger inside the following with rectangle.,This physician need to sign with his finger inside the following with rectangle.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.06 Signature,sign_physician_save,50,Mobile,Maviret,,Save signature,Save signature
+Added missing copy,17-janv.-19,PMac,09.08 Filter,all_health_professionals,32,Mobile,Maviret,,All healthcare professionals,All health professionals
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.08 Filter,filter,32,Mobile,Maviret,,Filter,Filter
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.10 Success send,success_form_sent,52,Mobile,Maviret,,Enrollment form has been successfully sent. It could take days before the patient appears in your AbbVie Care patient list.,Enrollment form has been successfully sent. It could take days before the patient appears in your AbbVie Care patient list.
+revised copy,17-janv.-19,PMac,09.11 Patient detail TL,enrollment_date_title,34,Mobile,Maviret,,Enrollment Form Reception Date,Enrollment Form Received Date
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.11 Patient detail TL,fibrosis_score_title,34,Mobile,Maviret,,Fibrosis Score,Fibrosis Score
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.11 Patient detail TL,genotype_title,34,Mobile,Maviret,,Genotype,Genotype
+copy revised,17-janv.-19,PMac,09.11 Patient detail TL,patient_insurances_title,34,Mobile,Maviret,,Reimbursement status,Reimbursement Milestone
+copy revised,17-janv.-19,PMac,09.11 Patient detail TL,status_history_title,34,Mobile,Maviret,,Status history,Status history
+copy revised,17-janv.-19,PMac,09.11 Patient detail TL,therapy_active_date_title,34,Mobile,Maviret,,Therapy Start Date,Therapy Active Start Date
+copy revised,17-janv.-19,PMac,09.11 Patient detail TL,therapy_duration_title,34,Mobile,Maviret,,Therapy Duration,Therapy Duration Type
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.11 Patient detail TL,therapy_end_date_title,34,Mobile,Maviret,,Estimated Therapy End Date,Estimated Therapy End Date
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.11 Patient detail TL,treatment_info_title,34,Mobile,Maviret,,Treatment Information,Treatment Information
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.11 Patient detail TL,treatment_milestone_title,34,Mobile,Maviret,,Treatment status,Treatment Milestone
+,8/24/2018,,Error,error_account_invalid_fields,,Mobile,All,,You need to enter valid information to update your details,Il faut entrer de l'information valide pour mettre à jour vos renseignements.
+,8/24/2018,,Error,error_account_update,,Mobile,All,,An error has occurred. Retry later to update your details.,Une erreur s'est produite. Réessayez plus tard pour mettre à jour vos renseignements.
+,8/24/2018,,Error,error_invalid_postal_code,,Mobile,All,,Enter a valid postal code,Entrez un code postal valide.
+,8/24/2018,,Error,error_login,,Mobile,All,,Your email or password is invalid,Votre adresse courriel ou votre mot de passe est invalide.
+,8/24/2018,,Error,error_no_account_with_email,,Mobile,All,,No account related to this email,Aucun compte n'est associé à cette adresse courriel.
+,8/24/2018,,Error,error_no_application_found,,Android,All,,No application has been found on your device to open this type of file. Please visit the Play Store to install a compatible application.,Aucune application n'a été trouvée sur votre appareil pour ouvrir ce format de fichier. Visitez le Play Store pour installer une application qui vous permettra d'ouvrir le fichier.
+,8/24/2018,,Error,error_required,,Mobile,All,,This field is required,Information requise dans ce champ
+,8/24/2018,,Error,retry,,Mobile,All,,Retry,Réessayer
+,8/24/2018,,Error,unknown,,Mobile,All,,Unknown,Inconnu
+,8/24/2018,,Error_Password,error_not_the_same_password,,Mobile,All,,Not the same password,Pas le même mot de passe
+,8/24/2018,,Leave confirmation,leave_confirmation_account_update,,Mobile,All,,Are you sure you want to leave? Your changes won't be saved.,Vous voulez vraiment mettre fin à la session? Votre réponse ne sera pas enregistrée.
+,8/24/2018,,Leave confirmation,leave_confirmation_assigment,,Mobile,All,,Are you sure you want to leave? Your answer won't be saved.,Vous voulez vraiment mettre fin à la session? Votre réponse ne sera pas enregistrée.
+,8/24/2018,,Library,error_loading_file,,Mobile,All,,The file cannot be open,Le fichier ne peut être ouvert
+,8/24/2018,,Library,error_title,,Mobile,All,,Error,Erreur
+,8/24/2018,,Loading,loading_content,,IOS,All,,Loading Content Library,Documents de référence en cours de chargement
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,Monography,quick_link_title,,Mobile,Maviret,,Quick links to recommended Tx duration:,Raccourcis vers la durée recommandée :
+,8/24/2018,,Notification,mandate_end_notification_app_open_detail,,Mobile,All,,Go to mandate,Accéder à l'objectif
+,8/24/2018,,Notification,mandate_notification_app_open_btn,,Mobile,All,,Go to mandate,Accéder à l'objectif
+,8/24/2018,,Notification,survey_end_notification_app_open_detail,,Mobile,All,,Go to survey,Accéder au sondage
+,8/24/2018,,Notification,survey_notification_app_open_btn,,Mobile,All,,Go to survey,Accéder au sondage
+,8/24/2018,,Notification,mandate_end_notification_body,,Mobile,All,,Go to mandate,Accéder à l'objectif
+,8/24/2018,,Notification,mandate_end_notification_title,,Mobile,All,,Mandate ending soon,Votre objectif arrive à échéance bientôt.
+,8/24/2018,,Notification,my_assignment_notification_body,,Mobile,All,,Your assignment is in 30 minutes,Votre tâche débutera dans 30 minutes.
+,8/24/2018,,Notification,my_assignment_notification_title,,Mobile,All,,Assignment,Tâche
+,8/24/2018,,Notification,notif_assignment_answered,,Mobile,All,,Assignment answered,Tâche terminée
+,8/24/2018,,Notification,notif_newcomment,,Mobile,All,,New comment,Nouveau commentaire
+,8/24/2018,,Notification,notif_newcontent,,Mobile,All,,New content,Nouveau contenu
+,8/24/2018,,Notification,notif_newmandate,,Mobile,All,,New mandate,Nouvel objectif
+,8/24/2018,,Notification,notif_newmessage,,Mobile,All,,New message,Nouveau message
+,8/24/2018,,Notification,notif_newreply,,Mobile,All,,New reply,Nouvelle réponse
+,8/24/2018,,Notification,notif_newsurvey,,IOS,All,,New survey,Nouveau sondage
+,8/24/2018,,Notification,notif_survey_answered,,Mobile,All,,Survey answered,Sondage rempli
+,8/24/2018,,Notification,survey_end_notification_body,,Mobile,All,,Go to survey,Accéder au sondage
+,8/24/2018,,Notification,survey_end_notification_title,,Mobile,All,,Survey ending soon,Le sondage se termine bientôt.
+,8/24/2018,,Notification dialog,No,,Mobile,All,,No,Non
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,Permission,NSPhotoLibraryUsageDescription,,IOS,Maviret,,Maviret needs access to your camera and photo library to edit your profile,Maviret doit accéder votre caméra et votre galerie de photos afin de modifier votre profil.
+,8/24/2018,,Permission,NSPhotoLibraryUsageDescription,,IOS,Dermatology,,Dermatology needs access to your camera and photo library to edit your profile,L'appli Dermatologie doit accéder votre caméra et à votre galerie de photos afin de modifier votre profil.
+,8/24/2018,,Permission,NSPhotoLibraryUsageDescription,,IOS,Rheumatology,,Rheumatology needs access to your camera and photo library to edit your profile,Rhumatologie doit accéder votre caméra et votre galerie de photos afin de modifier votre profil.
+,8/24/2018,,Profile,password_changed_message,,Mobile,All,,Your password has been changed.,Votre mot de passe a été changé.
+,8/24/2018,,Sync,sync_error,,Mobile,All,,An error occurred during the initial sync,Une erreur s'est produite durant la synchronisation initiale
+,8/24/2018,,Sync,sync_message,,Mobile,All,,Syncing data,Synchronisation des données
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.03 Signature,physician_signature_added,,Mobile,Maviret,,Physician signature added.,Physician signature added.
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.03 Signature,patient_signature_added,,Mobile,Maviret,,Patient signature added.,Patient signature added.
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,09.06 Signature,sign_patient_label,,Mobile,Maviret,,The patient needs to sign with his finger inside the following with rectangle.,The patient need to sign with his finger inside the following with rectangle.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Signature,edit_physician_sign,51,Mobile,Maviret,,Edit physician signature,Edit physician signature
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Signature,edit_patient_sign,51,Mobile,Maviret,,Edit patient signature,Edit patient signature
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,04.00 Duration Recommendation,quick_links_btn,13,Mobile,Maviret,,Quick links,Quick links
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Signature,physician_sign_error,49,Mobile,Maviret,,You have to add the physician signature,You have to add the physician signature
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Signature,patient_sign_error,49,Mobile,Maviret,,You have to add the patient signature,You have to add the patient signature
+missing copy added,17-janv.-19,PMac,09.04B Notification empty,ac_notification_empty,26,Mobile,Maviret,,Notifications No notifications yet. You will be notified when your patient(s) files are updated.,No notifications yet. You will be notified when new updates will occur upon your patients.
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,04.00 Duration Recommendation,monography_legal_text_one,17,Mobile,Maviret,,1. Myers RP et al. An update on the management of chronic hepatitis C: 2015 Consensus guidelines from the  Canadian Association for the Study of the Liver. Can J Gastroenterol Hepatol 2015;29(1):19-34,1. Myers RP et al. An update on the management of chronic hepatitis C: 2015 Consensus guidelines from the  Canadian Association for the Study of the Liver. Can J Gastroenterol Hepatol 2015;29(1):19-34
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,04.00 Duration Recommendation,monography_legal_text_two,17,Mobile,Maviret,,"2. AASLD. HCV Guidance. September 21, 2017.","2. AASLD. HCV Guidance. September 21, 2017."
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,Desaria Bradshaw,09.03 Add a patient form,physician_form_phone,42 (see Maviret enrollment form),Mobile,Maviret,,Telephone,Téléphone
+18-0153-2 HCV 1220cxe (used for column F),17-janv.-19,PMac,09.03 Add a patient form,maviret_dosing_placeholder,"44, 49, 51",Mobile,Maviret,,"8, 12 or 16 weeks","8, 12 or 16 weeks"
+excel updated,17-janv.-19,PMac,09.01 Dashboard,no_professionals_message,25,Mobile,Maviret,,"No patients with status yet. When you add a new patient, it may take a maximum of 2 days before the individual is added to your patient list.","No patients with status yet. After adding a new patient, allow time for the request process before he’s being added to your patient list."
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,Login,abbvie_url,,Mobile,All,,http://www.abbvie.ca/en/index.html,http://www.abbvie.ca/fr/index.html
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,01.06 Edit profile,not_specified,,Mobile,All,,Not specified,Not specified
+"@Guilia: Where is this information located in the app?? Please provide screen shot
+
+18-0153-2 HCV 1220cxe (used for column F)",17-janv.-19,Desaria Bradshaw,01.06 Edit profile,force_text_password_edit,,Mobile,All,,"You need to change your password. Please enter a password of at least 8 characters, 2 specials characters or uppercase","You need to change your password. Please enter a password of at least 8 characters, 2 specials characters or uppercase"

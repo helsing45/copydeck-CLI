@@ -1,0 +1,8 @@
+{
+    "from":"Csv",
+    "to":"Android",
+    "readPath":"test/input/csv/Metro.csv",
+    "writePath":"test/output/metro",
+    "filter":"Target == \"Android\" || Target == \"Mobile\"",
+    "defaultLang":"fr"
+}
