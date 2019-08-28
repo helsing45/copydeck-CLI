@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?> 
+  <!-- generation time : 2019-08-23T09:49:35.621Z--> 
+<resources>
+
+	<!-- 0.1 Tutoriel -->
+	<string name="tutorial_section_title">Tutoriel</string>
+	<string name="tutorial_close">Fermer</string>
+	<string name="tutorial_done">Terminer</string>
+
+	<!-- 1.3 Choix circulaire -->
+	<string name="date_range">%1$s au %2$s</string>
+	<string name="flyer_current_tab">EN COURS</string>
+	<string name="flyer_next_tab">À VENIR</string>
+	<string name="flyer_filter_title">Circulaires</string>
+
+	<!-- 2.0 Coupon Clip All -->
+	<string name="coupon_clip_all">Ajouter tous les coupons</string>
+	<string name="coupon_unclip_all">Retirer tous les coupons</string>
+
+	<!-- 4.0 Accueil -->
+	<string name="grocery_shortcut_title">Réalisez votre liste d’épicerie rapidement!</string>
+	<string name="grocery_shortcut_edittext_hint">Débutez votre liste</string>
+	<string name="see_all">Voir Tous</string>
+	<string name="feature_usual_product_title">Mes essentiels</string>
+	<string name="coupon_added">Coupon ajouté</string>
+	<string name="offer_added">Offre ajoutée</string>
+	<string name="usual_added">Essentiel ajoutée</string>
+
+	<!-- 4.0 Dashboard Carte récompense -->
+	<plurals name="dashboard_clipped_coupon">
+ 		<item quantity="one">%1$d coupon ajouté à votre carte</item>
+ 		<item quantity="other">%1$d coupons ajoutés à votre carte</item>
+	</plurals>
+	<plurals name="dashboard_available_coupon">
+ 		<item quantity="one">%1$d coupon sont encore disponible</item>
+ 		<item quantity="other">%1$d coupons sont encore disponibles</item>
+	</plurals>
+	<string name="card_hint_message">Pivotez votre téléphone pour voir votre carte.</string>
+	<string name="voucher_subscription">Recevez vos chèques-récompenses dans votre appli!</string>
+	<string name="voucher_no_rewards">Accumulez un minimum de 500 points pour recevoir un chèque de récompense</string>
+	<string name="dashboard_am_coupon_prefix">Obtenez</string>
+	<string name="dashboard_am_coupon_suffix">Air Miles en prime&lt;sup&gt;&lt;small&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="dashboard_tb_info_pts">125 %1$s = 20$</string>
+	<string name="dashboard_tb_info_pts_name">Thunder Bucks</string>
+	<string name="dashboard_reward_title">Votre récompense</string>
+	<string name="dashboard_reward_arrived_title">Votre récompense est arrivée</string>
+	<string name="dashboard_total_voucher_title">Total de vos récompenses</string>
+
+	<!-- 4.11 Modal chèque -->
+	<string name="dialog_voucher_title">Votre chèque-récompense est arrivé!</string>
+	<string name="dialog_voucher_detail">Utilisez-le pour réduire votre facture d’épicerie. Profitez-en!</string>
+	<string name="dialog_voucher_see_now_btn">Voir mon chèque</string>
+	<string name="dialog_voucher_see_later_btn">J'ai compris</string>
+	<string name="dialog_voucher_metro_and_me_placeholder">moi</string>
+
+	<!-- 4.6 Dashboard Air Miles -->
+	<string name="air_miles_balance_title">En date du %1$s, votre solde AIR MILES&lt;sup&gt;&lt;small&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/small&gt;&lt;/sup&gt; est:</string>
+	<string name="am_cash_miles">Miles Argent</string>
+	<string name="am_dream_miles">Miles Rêves</string>
+	<string name="am_show_points">Affichez votre solde de points</string>
+
+	<!-- 5.0 Dashboard -->
+	<string name="login_am_title">Voulez-vous consulter votre solde
+AIR MILES?</string>
+	<string name="login_am_sign_in">Se connecter</string>
+
+	<!-- Add Card -->
+	<string name="card_add_text">Entrez votre numéro de carte</string>
+	<string name="card_add_validate">Continuer</string>
+	<string name="card_add_am_sign_up">S'inscrire</string>
+	<string name="card_added">Succès!</string>
+	<string name="card_add_empty">Le numéro de la carte est vide</string>
+	<string name="card_add_am_empty_field">Champs requis non remplis</string>
+	<string name="card_add_hint">Entrez votre numéro de carte</string>
+	<string name="card_add_description_mm">Entrez votre carte metro&amp;moi pour personnaliser votre expérience.</string>
+	<string name="card_add_description_am">Entrez votre numéro de carte AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt; pour personnaliser votre expérience.</string>
+	<string name="card_add_description_tb">Entrez votre carte Thunder Bucks pour personnaliser votre expérience.</string>
+	<string name="scan_card_guide_message">Pointer la caméra sur le code-barres.\nFocuser et tenir l'appareil fermement.\nÉviter les reflets et les ombres.</string>
+	<string name="card_add_coupon_text_1">Sélectionnez vos coupons pour les ajouter sur votre carte. En présentant votre carte, ils seront automatiquement appliqués lors de votre passage à la caisse.</string>
+	<string name="card_add_coupon_text_2">Pivoter votre appareil pour utiliser votre carte à la caisse</string>
+	<string name="dashboard_remove_card_metro_et_moi">Retirer ma carte metro&amp;moi</string>
+	<string name="card_add_am_fail">Erreur sur l'enregistrement de votre carte AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="card_add_am_required">Requis *</string>
+	<string name="card_add_am_first_name">Prénom *</string>
+	<string name="card_add_am_last_name">Nom</string>
+	<string name="card_add_am_email">Courriel *</string>
+	<string name="card_add_am_title_1">AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt; *</string>
+	<string name="card_add_am_title_2">Infolettre metro.ca</string>
+	<string name="card_add_am_title_3">Metro et ses partenaires</string>
+	<string name="card_add_am_checkbox_1">Je désire recevoir des communications électroniques (nouvelles, offres et promotions) en lien avec le programme de récompense AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt; de la part de Metro Ontario inc. à titre de commanditaire du programme de récompense AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;. Je pourrai retirer mon consentement à tout moment.</string>
+	<string name="card_add_am_checkbox_3">Je désire recevoir l'infolettre de metro.ca qui inclut :</string>
+	<string name="card_add_am_checkbox_3_1">•\u0020\u0020\u0020\u0020des idées recettes dont un menu de la semaine s'inspirant des soldes de la circulaire,</string>
+	<string name="card_add_am_checkbox_3_2">•\u0020\u0020\u0020\u0020des suggestions en matière d'alimentation,</string>
+	<string name="card_add_am_checkbox_3_3">•\u0020\u0020\u0020\u0020des offres et promotions spéciales,</string>
+	<string name="card_add_am_checkbox_3_4">•\u0020\u0020\u0020\u0020et de l'information sur les produits et services de Metro.</string>
+	<string name="card_add_am_checkbox_4">Je désire recevoir des offres, sondages et promotions occasionnelles présentées par Metro dont certaines peuvent être en association avec des partenaires de confiance.</string>
+	<string name="card_air_miles">AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="card_thunder_bucks">Points Thunder</string>
+	<string name="card_add_am_legal_2">Au Québec :</string>
+	<string name="card_add_am_legal_4">En Ontario :</string>
+	<string name="card_help">Aide</string>
+	<string name="card_add_am_legal_1">Je comprends qu'en appuyant sur « Confirmer » j'accepte de recevoir les communications électroniques sélectionnées ci-haut de Metro inc. et,</string>
+	<string name="card_add_am_legal_3">Metro Richelieu Inc. 11 011 Maurice-Duplessis Blvd, \nMontréal, Québec, H1C 1V6\nService aux consommateurs : 1 866 595-5564</string>
+	<string name="card_add_am_legal_5">Metro Ontrario Inc. et Metro Ontario Pharmacies Limited. 5559 Dundas Street, West Etobicoke, Ontario, M9B 1B9 Customer Care : 1 866 922-7427</string>
+	<string name="card_add_am_legal_6">Je pourrai retirer mon consentement à tout moment</string>
+
+	<!-- Coupon -->
+	<string name="coupon_header_points_format_mm">%1$d</string>
+	<string name="coupon_header_points_unit_mm">pts</string>
+	<string name="coupon_header_points_format_am">%1$d milles</string>
+	<string name="coupon_header_points_unit_tb">points Thunder</string>
+	<string name="coupon_header_points_unit_am">AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt; en prime</string>
+	<string name="coupon_header_points_format_tb">%1$d</string>
+	<string name="coupon_header_and">et</string>
+	<string name="coupon_expire_text">Expire dans</string>
+	<string name="coupon_used_label">Coupon utilisé</string>
+	<string name="coupon_used_text">Coupon utilisé il y a</string>
+	<string name="coupon_detail_add">Ajouter à la liste</string>
+	<string name="coupon_detail_remove">Retirer</string>
+	<string name="coupon_tutorial_title">NOUVEAUTÉ</string>
+	<string name="coupon_tutorial_button">J'ai compris</string>
+	<string name="coupon_tutorial_description">metro&amp;moi</string>
+	<string name="coupon_header_dollars_format">%1$s $</string>
+	<string name="coupon_removed">Retiré</string>
+	<string name="coupon_add_fail">Impossible d'ajouter un coupon</string>
+	<string name="coupon_remove_fail">Impossible de retirer un coupon</string>
+	<string name="coupon_mass_no_card">Coupons sur des produits vedettes</string>
+	<string name="coupon_mass_has_card">Autres coupons sur des produits vedettes</string>
+	<string name="coupon_personalized_mm">Mes coupons metro&amp;moi personnalisés</string>
+	<string name="coupon_personalized_am">Mes coupons AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt; personnalisés</string>
+	<string name="coupon_personalized_tb">Mes coupons Thunder Buck personnalisés</string>
+	<string name="coupon_inspiration">Vous pourriez aussi aimer</string>
+	<string name="coupon_mqm_mm">Mes coupons reçus avec ma récompense</string>
+	<string name="coupon_mqm_am">Mes coupons Metro reçus par courriel</string>
+	<string name="coupon_mqm_tb">Mes coupons Thunder Buck reçus par la poste</string>
+	<string name="coupon_bcm">Mes coupons metro&amp;moi reçus par la poste</string>
+	<string name="coupon_benefit_pre_earn">Obtenez</string>
+	<string name="coupon_benefit_pre_get">Obtenez</string>
+	<string name="coupon_benefit_pre_bonus">Bonus</string>
+	<string name="coupon_benefit_pre_save">Rabais</string>
+	<string name="coupon_benefit_double">Doublez</string>
+	<string name="coupon_benefit_triple">Triplez</string>
+	<string name="coupon_benefit_post_points">pts</string>
+	<string name="coupon_benefit_post_miles">milles de récompense AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="coupon_benefit_post_tb_points">Thunder Points</string>
+	<string name="coupon_benefit_post_your_points">vos points</string>
+	<string name="coupon_benefit_dollars_format">%1$.1f $</string>
+	<string name="shopping_list_sync_message">Actualisation</string>
+	<string name="coupon_tutorial_text_1">Appuyer sur les coupons et ils seront automatiquement ajoutés à votre carte %1$s. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.</string>
+	<string name="coupon_tutorial_text_mm">Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte metro&amp;moi. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.</string>
+	<string name="coupon_tutorial_text_am"><![CDATA[Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte AIR MILES<sup><small><small>MD</small></small></sup>. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.]]></string>
+	<string name="coupon_tutorial_text_tb">Appuyez sur les coupons et ils seront automatiquement ajoutés à votre carte Points Thunder. Présentez votre carte à la caisse et vos coupons seront appliqués sur vos achats éligibles.</string>
+	<string name="special_coupon_valid_until">Valide jusqu'au %1$s</string>
+	<string name="special_coupon_title_get">Obtenez</string>
+	<string name="special_coupon_title_value">Milles en prime††</string>
+	<string name="special_coupon_title">Offre spéciale AIR MILES&lt;sup&gt;&lt;small&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="special_coupon_text">Échangez vos milles de votre solde Argent AIR MILES&lt;sup&gt;&lt;small&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/small&gt;&lt;/sup&gt;  à la caisse et recevez des milles en prime</string>
+	<string name="special_coupon_proximity_text">Utiliser ma récompense AIR MILES</string>
+	<string name="unclip_action_not_allowed_error">Ce coupon ne peut être retiré.</string>
+	<string name="featured_coupon_validity_date">Échangeable jusqu'à jeudi:</string>
+	<string name="featured_coupon_add_offer">Ajoutez l'offre %1$s</string>
+	<string name="featured_coupon_add_offer_date">aujourd'hui seulement!</string>
+
+	<!-- Dashboard -->
+	<string name="dashboard_remove_card_air_miles">Retirer ma carte AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="dashboard_remove_card_thunder_buck">Retirer ma carte Thunder Bucks</string>
+	<string name="card_help_description_am">Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;.</string>
+	<string name="card_help_description_tb">Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages Thunder Bucks.</string>
+	<string name="card_help_description_mm">Vous pouvez balayer le code-barres de votre carte ou bien en saisir le numéro afin de profiter pleinement des avantages metro&amp;moi.</string>
+	<string name="card_help_advantage">Les avantages d'ajouter sa carte</string>
+	<string name="card_help_card">Votre carte partout, en tout temps</string>
+	<string name="card_help_coupon">Des coupons personnalisés selon vos goûts</string>
+	<string name="card_help_flyer">Des offres et une circulaire personnalisées</string>
+	<string name="card_help_usual">Vos produits essentiels</string>
+	<string name="card_help_voucher">Des chèques-récompenses juste pour vous</string>
+	<string name="dashboard_salutation_format">Bonjour %1$s</string>
+	<string name="metro_card_points_summary">Votre solde de points</string>
+	<string name="dashboard_your_points_metro_et_moi">Votre solde de points {{img:metro}}</string>
+	<string name="dashboard_your_points_air_miles">AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt; miles à obtenir</string>
+	<string name="dashboard_your_points_thunder_buck">points Thunder à accumuler</string>
+	<string name="dashboard_your_card_air_miles">Votre carte AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="dashboard_your_card_thunder_buck">Votre carte Thunder Bucks</string>
+	<string name="dashboard_your_card_metro_et_moi">Votre carte metro&amp;moi</string>
+	<string name="dashboard_your_rewards">Vos récompenses</string>
+	<string name="dashboard_your_selected_coupons">Vos coupons sélectionnés</string>
+	<string name="dashboard_no_coupon">Votre carte ne contient aucun coupon</string>
+	<string name="dashboard_add_coupon">Ajoutez des coupons</string>
+	<string name="dashboard_selected_coupons_page">%1$d de %2$d</string>
+	<string name="feature_salutation_format">Bonjour%1$s</string>
+	<string name="feature_points_pre">Vous avez</string>
+	<string name="feature_points_post">points</string>
+	<string name="dashboard_remove_card_dialog_message">Retirer votre carte?</string>
+	<string name="gamification_new_user">Accumulez des points pour être admissible à votre prochaine récompense!
+</string>
+	<string name="gamification_new_user_with_pts">Bravo plus que %1$d points pour être admissible à votre prochaine récompense!</string>
+	<string name="gamification_pts">%1$d pts</string>
+	<string name="gamification_record_pts_title">Votre plus grosse récompense à date :</string>
+	<string name="gamification_record_pts_value">%1$spts {{img:metro}} et %2$s</string>
+	<string name="gamification_broken_record_pts_title">Félicitations, Record dépassé!</string>
+	<string name="gamification_broken_record_pts_value">Bravo! Votre record de %1$s points {{img:metro}} et %2$s a été battu !</string>
+	<string name="gamification_first_broken_record_value">Félicitations! Vous êtes admissible à votre première récompense de 4$! Continuez d’accumuler des points pour augmenter votre récompense!</string>
+	<string name="gamification_next_goal_pop_up_title">undefined</string>
+	<string name="gamification_next_goal_pop_up_value">Votre récompense augmente ! Nous avons mis à jour votre prochain objectif!</string>
+	<string name="gamification_broken_record_pts_title_again">Bravo, continuez d'accumuler des points pour augmenter votre prochaine récompense et votre nouveau record!</string>
+
+	<!-- Errors -->
+	<string name="error_no_data">Aucune donnée disponible</string>
+	<string name="error_no_network">Aucune connexion internet</string>
+	<string name="flyer_no_network_text">Aucune donnée disponible</string>
+	<string name="flyer_error_text">Une erreur est survenue lors du chargement</string>
+	<string name="error_generic">Une erreur est survenue</string>
+	<string name="card_add_fail">Le numéro de carte est invalide</string>
+	<string name="card_remove_fail">La carte ne peut pas être retirée présentement</string>
+	<string name="error_no_camera_permission">Pour lire votre carte, vous devez autoriser metro à accéder votre caméra.</string>
+	<string name="error_open_camera_fail">Erreur sur le démarrage de la caméra</string>
+	<string name="flyer_item_error_message">Une erreur est survenue lors du chargement du produit</string>
+	<string name="error_no_card_linked">Veuillez lier votre carte</string>
+	<string name="error_network_server_message">Vos informations sont indisponibles pour le moment, merci de réessayer plus tard</string>
+
+	<!-- FAQ -->
+	<string name="faq_accumulate_points">Comment accumuler des points réguliers?</string>
+	<string name="faq_value_points">Quelle est la valeur des points?</string>
+	<string name="faq_next_reward_time">Comment obtenir une récompense?</string>
+	<string name="faq_subscription">Comment s’abonner aux chèques numériques?</string>
+	<string name="faq_change_card">Remplacer ma carte?</string>
+	<string name="faq_see_all">Voir toutes</string>
+	<string name="faq_change_address">Comment faire mon changement d’adresse?</string>
+
+	<!-- Flyers -->
+	<string name="flyer_detail_add">Ajouter à la liste</string>
+	<string name="flyer_detail_remove">Retirer de la liste</string>
+	<string name="flyer">Circulaire</string>
+	<string name="feature_flyer_title">Offres de la semaine</string>
+	<string name="feature_flyer_all">Voir la circulaire</string>
+	<string name="feature_coupon_title">Tous les coupons</string>
+	<string name="feature_coupon_all">Tout</string>
+	<string name="flyer_detail_title">Détail du produit</string>
+	<string name="flyer_detail_disclaimer">En cas de disparité entre l'information présentée dans l'application et la circulaire imprimée, cette dernière prévaudra</string>
+	<string name="flyer_detail_added">Ajouté</string>
+	<string name="flyer_detail_removed">Retiré</string>
+	<string name="flyer_detail_label_current">Valide du %1$s au %2$s</string>
+	<string name="flyer_detail_label_next">Attention! La promotion sera effective à partir de %1$s</string>
+	<string name="flyer_empty_text">Aucune circulaire n'est présentement disponible</string>
+	<string name="flyer_detail_label_expried">Cette promotion n'est pas disponible pour la circulaire sélectionnée</string>
+
+	<!-- Forced update -->
+	<string name="force_update_dialog_title">Mise à jour nécessaire</string>
+	<string name="force_update_dialog_message">Cette version de l’application n’est plus supportée, veuillez télécharger la dernière version pour profiter des nouvelles fonctionnalités!</string>
+	<string name="force_update_dialog_button">Mettre à jour</string>
+	<string name="update_dialog_title">Mise-à-jour recommandée</string>
+	<string name="update_dialog_message">Une nouvelle version de l'appli est disponible</string>
+	<string name="update_dialog_button">Je comprends</string>
+	<string name="update_optional_title">Nouvelle version disponible!</string>
+	<string name="update_later">Plus tard</string>
+	<string name="update_optional_accept">Mettre à jour</string>
+	<string name="update_optional_desc">Téléchargez la nouvelle version pour profiter de nos nouvelles fonctionnalités!</string>
+
+	<!-- Home -->
+	<string name="french">Français</string>
+	<string name="english">English</string>
+	<string name="notification">Notification</string>
+	<string name="language">Langue</string>
+	<string name="faq">FAQ</string>
+	<string name="information">Information</string>
+	<string name="about">À propos</string>
+	<string name="contact">Contactez-nous</string>
+	<string name="term">Conditions d'utilisation</string>
+	<string name="legal">Protection des renseignements personnels</string>
+	<string name="card_add_scan">Balayer le code-barres de votre carte</string>
+	<string name="ecomm_section_title">Magasiner sur metro.ca</string>
+
+	<!-- Misc -->
+	<string name="card_help_title_mm">Ma carte metro&amp;moi</string>
+	<string name="card_help_title_am">Ma carte AIR MILES&lt;sup&gt;&lt;small&gt;MD&lt;/small&gt;&lt;/sup&gt;</string>
+	<string name="card_help_title_tb">Ma carte Thunder Bucks</string>
+	<string name="version">Version %1$s%2$s</string>
+	<string name="or">ou</string>
+	<string name="yes">Oui</string>
+	<string name="no">Non</string>
+	<string name="notification_dialog_title">Notifications</string>
+	<string name="notification_dialog_message">Voulez-vous recevoir des notifications pour des offres exclusives?</string>
+	<string name="notification_dialog_no">Non merci</string>
+	<string name="notification_dialog_later">Plus tard</string>
+	<string name="ok">OK</string>
+	<string name="error_retry">Essayez à nouveau</string>
+
+	<!-- Navigation -->
+	<string name="feature">En vedette</string>
+	<string name="flyer_current">Circulaire</string>
+	<string name="flyer_next">Prochaine circulaire</string>
+	<string name="shopping_list">Liste</string>
+	<string name="coupon_detail_title">Détails</string>
+	<string name="card_metro_et_moi">metro&amp;moi</string>
+	<string name="coupons">Coupons</string>
+
+	<!-- Notification -->
+	<string name="notification_channel_general">Général</string>
+	<string name="cx_service_notification_title">Téléchargement des données en cours</string>
+	<string name="notification_channel_background_service">Téléchargement des ressources</string>
+
+	<!-- Personal offers -->
+	<string name="free_quantity_global_amount">Gratuit si vous dépensez %1$.2f $ ou plus</string>
+	<plurals name="free_quantity_format">
+ 		<item quantity="one">%1$d gratuit à l'achat de %2$d</item>
+ 		<item quantity="other">%1$d gratuits à l'achat de %2$d</item>
+	</plurals>
+	<string name="quantity_for_price_kilo">%1$s / kg</string>
+	<string name="quantity_for_price_lbs">%1$s / lb</string>
+	<plurals name="personal_offer_extra_points_am">
+ 		<item quantity="one">%1$d points AIR MILES</item>
+ 		<item quantity="other">%1$d points AIR MILES à l'achat de %2$d</item>
+	</plurals>
+	<plurals name="personal_offer_extra_points_tb">
+ 		<item quantity="one">%1$d points Thunder buck</item>
+ 		<item quantity="other">%1$d points Thunder buck à l'achat de %2$d</item>
+	</plurals>
+
+	<!-- Shared -->
+	<string name="loading">Chargement</string>
+
+	<!-- Shopping list -->
+	<string name="shopping_list_detail">Détails</string>
+	<string name="shopping_list_empty">Votre liste ne contient aucun produit</string>
+	<string name="shopping_list_modify">Modifier</string>
+	<string name="shopping_list_cancel">Annuler</string>
+	<string name="shopping_list_search_hint">Ajouter des produits</string>
+	<string name="shopping_list_open_guide">Construire votre liste</string>
+	<string name="shopping_list_do_shopping">Faire mon épicerie</string>
+	<string name="shopping_list_search">Chercher</string>
+	<string name="shopping_list_share">Partager la liste</string>
+	<string name="shopping_list_share_title">Partager avec</string>
+	<string name="shopping_list_go">Faire mon épicerie</string>
+	<string name="shopping_list_share_intro">Voici ma liste d'épicerie pour metro:</string>
+	<string name="shopping_list_share_link">Télécharger l'appli Mon Metro - https://www.metro.ca/application-mobile</string>
+	<string name="shopping_list_share_note">note:\u0020</string>
+	<string name="shopping_list_related">Détail de l'item</string>
+	<string name="shopping_list_related_done">Terminer</string>
+	<string name="shopping_list_related_note">Quantité / note :</string>
+	<string name="shopping_list_related_delete">Effacer</string>
+	<string name="shopping_list_related_coupon">COUPONS</string>
+	<string name="shopping_list_related_flyer">OFFRES</string>
+	<string name="shopping_list_related_healthy_product">MEILLEURS ET BONS CHOIX</string>
+	<string name="shopping_list_healthy_good">Bon choix</string>
+	<string name="shopping_list_healthy_better">Meilleur choix</string>
+	<string name="shopping_list_delete">Supprimer</string>
+	<string name="shopping_list_deleted">Supprimé</string>
+	<string name="shopping_list_guide_changed">La liste a été mise-à-jour</string>
+	<string name="healthy_product_detail">Détail du produit</string>
+	<string name="shopping_list_related_deleted">Supprimé</string>
+	<string name="shopping_list_related_updated">Mis-à-jour</string>
+	<string name="shopping_list_guide">Guide</string>
+	<string name="shopping_list_guide_done">Terminer</string>
+	<string name="shopping_list_guide_next">Suivant</string>
+	<string name="healthy_product_added">Ajouté</string>
+	<string name="healthy_product_removed">Supprimé</string>
+	<string name="healthy_product_detail_add">Ajouter à la liste</string>
+	<string name="healthy_product_detail_remove">Retirer de la liste</string>
+	<string name="usual_product_added">Ajouté</string>
+	<string name="usual_product_removed">Supprimé</string>
+	<string name="shopping_list_add_favorite">Ajouter vos essentiels</string>
+	<string name="shopping_list_add_coupon">Ajouter vos coupons</string>
+	<string name="shopping_list_add_flyer">Ajouter vos offres</string>
+	<string name="shopping_list_no_favorite">Vous n'avez pas encore d'essentiels</string>
+	<string name="shopping_list_no_coupon">Vous n'avez pas encore de coupons</string>
+	<string name="shopping_list_clean">Effacer les items sélectionnés</string>
+	<string name="shopping_list_clear">Supprimer tous les items</string>
+	<string name="shopping_list_clear_dialog_message">Tous les items seront effacés</string>
+	<string name="shopping_list_remove_coupon">Retirer les coupons</string>
+	<string name="shopping_list_product_family_coupon_fr">Produits requis pour vos coupons</string>
+	<string name="shopping_list_product_family_coupon_en">Products required for your coupons</string>
+	<string name="usual_product_detail">Détail du produit</string>
+	<string name="usual_product_add">Ajouter à la liste</string>
+	<string name="usual_product_remove">Retirer de la liste</string>
+	<string name="shopping_list_open_scan">Balayer un article</string>
+	<string name="scan_product_added">Produit ajouté!</string>
+	<string name="scan_product_not_found">Le produit n'a pas été trouvé!</string>
+	<string name="scan_product_add">Ajouter à la liste</string>
+	<string name="scan_product_remove">Retirer de la liste</string>
+	<string name="scan_product_detail">Détail du produit</string>
+	<string name="scan_product_removed">Retiré</string>
+	<string name="scan_product_guide_message">Balayer le code-barres d'un article pour l'ajouter à votre liste</string>
+	<string name="item_grocery_note_hint">Ajouter une note</string>
+	<string name="quantity_dialog_title">Quantité</string>
+	<string name="item_grocery_create_grocery_list">Construisez votre liste rapidement</string>
+	<string name="grocery_list_header_usual">Essentiels</string>
+	<string name="grocery_list_header_flyer">Offres circulaire</string>
+	<string name="shopping_list_return">Retour à ma liste</string>
+
+	<!-- Store -->
+	<string name="feature_store_hour">Ouvert aujourd'hui : %1$s</string>
+	<string name="feature_store">Mon épicerie</string>
+	<string name="feature_store_change">Changer</string>
+	<string name="start_select_store_message">Afin de mieux vous servir, choisissez votre metro préféré.</string>
+	<string name="start_select_store">Choisir mon metro</string>
+	<string name="store_select">Choisir ce metro</string>
+	<string name="store_search_hint">Code postal ou ville</string>
+	<string name="cancel">Annuler</string>
+	<string name="store_detail">Détails</string>
+	<string name="store_locator">Localisateur de magasin</string>
+	<string name="gps">GPS</string>
+	<string name="distance_format">%1$.0f km</string>
+	<string name="distance_format_decimal">%1$.1f km</string>
+	<string name="store_detail_call">Téléphonez</string>
+	<string name="store_detail_direction">Itinéraire</string>
+	<string name="store_selected">Magasin sélectionné</string>
+	<string name="store_search_empty">Aucun magasin trouvé</string>
+	<string name="store_detail_hours">Horaire</string>
+	<string name="store_detail_service">Services</string>
+	<string name="store_detail_pharmacy">Pharmacie</string>
+	<string name="store_detail_store_hours">Heures d'ouverture</string>
+	<string name="sunday">Dimanche</string>
+	<string name="monday">Lundi</string>
+	<string name="tuesday">Mardi</string>
+	<string name="wednesday">Mercredi</string>
+	<string name="thursday">Jeudi</string>
+	<string name="friday">Vendredi</string>
+	<string name="saturday">Samedi</string>
+	<string name="store_detail_pharmacy_hours">Heures d'ouvertures de la pharmacie</string>
+	<string name="store_detail_open_24_hours">Ouvert 24h</string>
+	<string name="gps_dialog_title">Aucun GPS</string>
+	<string name="gps_dialog_message">Aucun GPS disponible</string>
+	<string name="gps_dialog_button">Configuration</string>
+	<string name="store_in_range_desc_voucher">Vous avez un\nchèque-récompense non-utilisé</string>
+	<string name="store_in_range_desc_list">Consultez votre\nliste d'épicerie</string>
+	<string name="store_in_range_desc_coupon">N'oubliez pas\nvos coupons!</string>
+	<string name="feature_store_hour_24">Ouvert aujourd'hui : Ouvert 24h</string>
+	<string name="store_in_range_title">Bienvenue au Metro\n%1$s</string>
+	<string name="store_in_range_title_plus">Bienvenue au Metro Plus\n%1$s</string>
+	<string name="store_special_schedule_close">Fermé</string>
+	<string name="store_special_today">Aujourd'hui</string>
+	<string name="store_see_regular_hours">Consulter les heures régulières</string>
+	<string name="store_see_special_hours">Consulter l'horaire spécial</string>
+	<string name="store_detail_special_week_title">Heures d'ouverture</string>
+	<string name="store_special_hour_closed_home">Fermé aujourd'hui</string>
+
+	<!-- Tutorial M button -->
+	<string name="tutorial_m_img">tuto_m_fr_%1$d</string>
+
+	<!-- Voucher -->
+	<string name="voucher_continue_accumulate">Continuez à accumuler des points pour votre prochaine récompense</string>
+	<string name="voucher_verify_continue">Continuer</string>
+	<string name="voucher_total_not_used">Total de mes récompenses non utilisées</string>
+	<string name="voucher_total_used">Total de mes récompenses reçues</string>
+	<string name="voucher_my_vouchers_not_used">Mes récompenses non utilisées</string>
+	<string name="voucher_my_vouchers_not_used_empty">Aucune récompense inutilisée</string>
+	<string name="voucher_my_vouchers_used">Mon historique de récompenses</string>
+	<string name="voucher_list_setting_exit_question">Voulez-vous vraiment quitter ?</string>
+	<string name="voucher_list_setting_exit">Quitter</string>
+	<string name="voucher_list_amount_format">Récompense de %1$d $</string>
+	<string name="voucher_list_expire_date">Expire le %1$s</string>
+	<string name="voucher_expire_soon">Expire bientôt!</string>
+	<string name="voucher_list_redeemed_date">Échangé le %1$s</string>
+	<string name="voucher_list_expired_date">Expiré le %1$s</string>
+	<string name="voucher_amount_zero">Récompense à venir</string>
+	<string name="voucher_list_setting">Préférences</string>
+	<string name="voucher_list_setting_checkbox">Je désire recevoir mes chèques-récompenses en format numérique seulement.</string>
+	<string name="voucher_list_setting_save">Sauvegarder</string>
+	<string name="voucher_list_setting_confirm_question">Êtes-vous certain de ne plus vouloir utiliser vos chèques-récompense par l'entremise de l'appli mobile et de vouloir les recevoir par la poste?</string>
+	<string name="voucher_verify_text">Vos chèques-récompense dans votre mobile</string>
+	<string name="voucher_verify_button">Voir</string>
+	<string name="voucher_my_vouchers">Mes récompenses</string>
+	<string name="voucher_verify_help_title">Recevez votre chèque-récompense dans votre appli plutôt que par la poste</string>
+	<string name="voucher_verify_checkbox">Je comprends que mes chèques-récompenses et coupons reliés à ceux-ci seront dorénavant envoyés uniquement sur mon appli Mon Metro</string>
+	<string name="voucher_verify_enter_postal_code">Entrez le code postal associé à votre carte metro&amp;moi</string>
+	<string name="voucher_verify_postal_code">Code postal</string>
+	<string name="voucher_verify_enter_email">Entrez mon adresse courriel pour être informé dès que ma nouvelle récompense est disponible</string>
+	<string name="voucher_verify_email">Courriel</string>
+	<string name="voucher_verify_unsubscribe_notice">* Vous pouvez vous désabonner en tout temps</string>
+	<string name="voucher_verify_error_text">Erreur</string>
+	<string name="voucher_error_invalid_postal_code">Code postal invalide</string>
+	<string name="voucher_verify_card_banned">Le nombre de tentatives de validation de code postal est dépassé. L'accès à vos chèques-récompense est temporairement bloqué. Veuillez réessayer dans 24 h.</string>
+	<string name="voucher_verify_invalid_postal_code">Oups! Code postal invalide</string>
+	<string name="voucher_verify_confirm_label">Information</string>
+	<string name="voucher_verify_confirm_description">Vous pourrez maintenant utiliser vos chèques-récompense sur votre mobile</string>
+	<string name="voucher_verify_confirm_content">Un courriel vous sera acheminé à %1$s lorsqu'un nouveau chèque-récompense sera disponible.</string>
+	<string name="voucher_verify_confirm_button">Voir mes récompenses</string>
+	<string name="voucher_verify_help_label">Information</string>
+	<string name="voucher_verify_help_description">Fini les récompenses oubliées!</string>
+	<string name="voucher_verify_description">Recevez votre chèque-récompense dans votre appli plutôt que par la poste</string>
+	<string name="voucher_verify_help_content_1">Toujours à portée de main</string>
+	<string name="voucher_verify_help_content_2">Accès à votre historique de chèque-récompense</string>
+	<string name="voucher_verify_help_content_3">Moins de papier, plus de simplicité</string>
+	<string name="voucher_detail_label">Mon chèque-récompense</string>
+	<string name="voucher_detail_description_1">Voici votre chèque-récompense!</string>
+	<string name="voucher_detail_description_2">Présentez-le à la caisse</string>
+	<string name="voucher_detail_expire_time">Applicable à une facture d'épicerie chez Metro\nValide jusqu'au %1$s</string>
+	<string name="voucher_amount_format">%1$d $</string>
+
+	<!-- Vouchers -->
+	<string name="voucher_approval_unknownaccount">Impossible de retrouver vos chèques-récompense. Si votre carte est récente, votre compte sera mis à jour d'ici quelques jours.</string>
+	<string name="voucher_detail_legal">La carte de membre doit être présentée au moment de la transaction. Limite d'une seule utilisation de la présente récompense (papier, mobile ou en ligne) pour la durée de la période de validité. Le montant de la transaction doit être supérieur au montant de la récompense. Aucun remboursement. Aucune remise en argent. Aucune réémission de la récompense. Aucune photocopie n'est acceptée. L'offre n'est pas transférable. Admissible seulement dans les magasins Metro et Metro Plus du Québec participants. Consultez les modalités du programme metro&amp;moi sur metro.ca.MC metro&amp;moi et les points m sont des marques de commerce de Metro Inc.</string>
+	<string name="voucher_expire_no_date">Aucune expiration</string>
+	<string name="voucher_expire_no_date_applicable">Applicable à une facture d’épicerie chez Metro\nAucune expiration</string>
+	<string name="error_card_import_pending">Un délai de 7 jours après l'obtention de votre carte est nécessaire pour l'inscription aux chèques numériques</string>
+
+	<!-- coupon -->
+	<plurals name="coupon_header_count">
+ 		<item quantity="one">%1$d coupon disponible</item>
+ 		<item quantity="other">%1$d coupons disponibles</item>
+	</plurals>
+	<plurals name="coupon_expire_format">
+ 		<item quantity="one">%1$d jour</item>
+ 		<item quantity="other">%1$d jours</item>
+	</plurals>
+	<plurals name="coupon_used_format">
+ 		<item quantity="one">%1$d jour</item>
+ 		<item quantity="other">%1$d jours</item>
+	</plurals>
+	<string name="coupons_expire">Expire</string>
+	<string name="coupons_today">Aujourd'hui</string>
+</resources>

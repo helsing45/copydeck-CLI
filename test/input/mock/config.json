@@ -1,0 +1,8 @@
+{
+    "from":"Csv",
+    "to":"universal",
+    "readPath":"test/input/csv",
+    "writePath":"",
+    "filter":"",
+    "defaultLang":""
+}
