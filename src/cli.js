@@ -23,7 +23,7 @@ export async function cli(args) {
         if (!fs.existsSync(configParentPath)) {
             fs.mkdirSync(configParentPath);
         }
-        let contents = JSON.stringify(options);
+        let contents = JSON.stringify(options, null, 2);
         console.log("Writing " + contents + " file into: " + configFilePath);
 
         fs.writeFileSync(configFilePath, contents);
